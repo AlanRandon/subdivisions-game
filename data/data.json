@@ -1,0 +1,3948 @@
+{
+  "http://www.wikidata.org/entity/Q1033": {
+    "id": "http://www.wikidata.org/entity/Q1033",
+    "name": "Nigeria",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q320852",
+        "preferredName": "Abia State",
+        "names": [
+          "Abia",
+          "Abia State"
+        ],
+        "geoshape": "2d8cbd9f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q337514",
+        "preferredName": "Adamawa State",
+        "names": [
+          "Adamawa State",
+          "Borno",
+          "Ngwa, Hawul LGA"
+        ],
+        "geoshape": "5e524edb"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q424388",
+        "preferredName": "Akwa Ibom State",
+        "names": [
+          "Akwa Ibom",
+          "Akwa Ibom State"
+        ],
+        "geoshape": "b1d47eee"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q117714",
+        "preferredName": "Anambra State",
+        "names": [
+          "Anambra",
+          "Anambra State"
+        ],
+        "geoshape": "fcaf0d51"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q503936",
+        "preferredName": "Bauchi State",
+        "names": [
+          "Bauchi State"
+        ],
+        "geoshape": "f6e6db2b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q532153",
+        "preferredName": "Bayelsa State",
+        "names": [
+          "Bayelsa State"
+        ],
+        "geoshape": "e095ce6a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q429908",
+        "preferredName": "Benue State",
+        "names": [
+          "Benue State"
+        ],
+        "geoshape": "fae8b85a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q130626",
+        "preferredName": "Borno State",
+        "names": [
+          "Borno",
+          "Borno State",
+          "Home of peace"
+        ],
+        "geoshape": "59d5b410"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q739676",
+        "preferredName": "Cross River State",
+        "names": [
+          "Cross River State"
+        ],
+        "geoshape": "4ad4ff43"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q503910",
+        "preferredName": "Delta State",
+        "names": [
+          "Delta State"
+        ],
+        "geoshape": "f7074cec"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q506808",
+        "preferredName": "Ebonyi State",
+        "names": [
+          "Ebonyi State"
+        ],
+        "geoshape": "18340b2e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q682704",
+        "preferredName": "Edo State",
+        "names": [
+          "Edo",
+          "Edo State"
+        ],
+        "geoshape": "aec6f18b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q534917",
+        "preferredName": "Ekiti State",
+        "names": [
+          "Ekiti",
+          "Ekiti State"
+        ],
+        "geoshape": "80390ee5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3817714",
+        "preferredName": "Enugu State",
+        "names": [
+          "Enugu State",
+          "coal city state"
+        ],
+        "geoshape": "d9165cbd"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q509300",
+        "preferredName": "Federal Capital Territory",
+        "names": [
+          "FCT",
+          "Federal Capital Territory"
+        ],
+        "geoshape": "dc92068b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q376241",
+        "preferredName": "Gombe State",
+        "names": [
+          "Gombe",
+          "Gombe State",
+          "Jewel in the Savannah"
+        ],
+        "geoshape": "f08e4e7d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q842939",
+        "preferredName": "Imo State",
+        "names": [
+          "Imo",
+          "Imo State"
+        ],
+        "geoshape": "0bf84257"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q682691",
+        "preferredName": "Jigawa State",
+        "names": [
+          "Jigawa State",
+          "Land of beauty"
+        ],
+        "geoshape": "e37a58e4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q878284",
+        "preferredName": "Kaduna State",
+        "names": [
+          "Kaduna State"
+        ],
+        "geoshape": "31814a0c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q682571",
+        "preferredName": "Kano State",
+        "names": [
+          "Kano",
+          "Kano State"
+        ],
+        "geoshape": "16ce0fa3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q657821",
+        "preferredName": "Katsina State",
+        "names": [
+          "Kastina state",
+          "Katsina State"
+        ],
+        "geoshape": "786d1b40"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q748523",
+        "preferredName": "Kebbi State",
+        "names": [
+          "Kebbi State",
+          "NG-KE"
+        ],
+        "geoshape": "0b634058"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q387745",
+        "preferredName": "Kogi State",
+        "names": [
+          "Kogi STATE",
+          "Kogi State"
+        ],
+        "geoshape": "b07c56e4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q464953",
+        "preferredName": "Kwara State",
+        "names": [
+          "Kwara State",
+          "State of Harmony"
+        ],
+        "geoshape": "59f56b39"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q815913",
+        "preferredName": "Lagos State",
+        "names": [
+          "Eko",
+          "Lagos State",
+          "Lasgidi"
+        ],
+        "geoshape": "1d9140ec"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q836645",
+        "preferredName": "Nasarawa State",
+        "names": [
+          "Nasarawa State"
+        ],
+        "geoshape": "c9f26503"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q503932",
+        "preferredName": "Niger State",
+        "names": [
+          "Niger",
+          "Niger State"
+        ],
+        "geoshape": "8f1c118e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q836657",
+        "preferredName": "Ogun State",
+        "names": [
+          "Ogun State"
+        ],
+        "geoshape": "114923aa"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q836654",
+        "preferredName": "Ondo State",
+        "names": [
+          "Ondo State",
+          "Sunshine state"
+        ],
+        "geoshape": "0aeeb433"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q682721",
+        "preferredName": "Osun State",
+        "names": [
+          "Osun State",
+          "Osun state"
+        ],
+        "geoshape": "0829f5d9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q503905",
+        "preferredName": "Oyo State",
+        "names": [
+          "Oyo State"
+        ],
+        "geoshape": "33fdaa89"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q503928",
+        "preferredName": "Plateau State",
+        "names": [
+          "Plateau State"
+        ],
+        "geoshape": "03e0e27a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q503923",
+        "preferredName": "Rivers State",
+        "names": [
+          "Rivers State"
+        ],
+        "geoshape": "c7dc81c6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q503941",
+        "preferredName": "Sokoto State",
+        "names": [
+          "Sokoto",
+          "Sokoto State",
+          "Sokoto, Nigeria",
+          "labari sokoto"
+        ],
+        "geoshape": "ce165b26"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q463959",
+        "preferredName": "Taraba State",
+        "names": [
+          "Jalingo",
+          "Taraba State"
+        ],
+        "geoshape": "148b1540"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q682777",
+        "preferredName": "Yobe State",
+        "names": [
+          "Yobe",
+          "Yobe State"
+        ],
+        "geoshape": "ff617dea"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q145793",
+        "preferredName": "Zamfara State",
+        "names": [
+          "Fansa...shik",
+          "Zamfara State"
+        ],
+        "geoshape": "da60d10a"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q148": {
+    "id": "http://www.wikidata.org/entity/Q148",
+    "name": "People's Republic of China",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q40956",
+        "preferredName": "Anhui",
+        "names": [
+          "An-hui",
+          "An-hwei",
+          "Anhui",
+          "Anhwei",
+          "Ngan-hui",
+          "Ngan-hwei",
+          "Nganhoei",
+          "Nganhui",
+          "Nganhwei"
+        ],
+        "geoshape": "885959de"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q956",
+        "preferredName": "Beijing",
+        "names": [
+          "BJ",
+          "Beeijing",
+          "Beijing",
+          "Beiping",
+          "B\u0101kg\u012bng",
+          "B\u011bijing",
+          "B\u011bij\u012bng",
+          "Chung-tu",
+          "Chungtu",
+          "Khanbalik",
+          "Khanbaliq",
+          "Pak-kiann",
+          "Pe-king",
+          "Pei-ching",
+          "Pei-p'ing",
+          "Pei-ping",
+          "Peip'ing",
+          "Peiping",
+          "Pekin",
+          "Peking",
+          "Poh-cin",
+          "Shun-t'ien",
+          "Shun-tien",
+          "Shuntian",
+          "Shuntian Fu",
+          "Shuntianfu",
+          "Yan-ching",
+          "Yanjing",
+          "Yanking",
+          "Zhongdu"
+        ],
+        "geoshape": "185ec44f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q11725",
+        "preferredName": "Chongqing",
+        "names": [
+          "Chongqing",
+          "Chongqing Municipality",
+          "Chunking"
+        ],
+        "geoshape": "efce6134"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q41705",
+        "preferredName": "Fujian",
+        "names": [
+          "Fo'kien",
+          "Fo-kien",
+          "Fokien",
+          "Fou Kien",
+          "Fou-kien",
+          "Foukien",
+          "Fu Kien",
+          "Fu-chien",
+          "Fu-kien",
+          "Fuchien",
+          "Fujian",
+          "Fujiang Province",
+          "Fukien",
+          "Province of Fujian"
+        ],
+        "geoshape": "e3f23e83"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q42392",
+        "preferredName": "Gansu",
+        "names": [
+          "Gansu",
+          "Gansu Province",
+          "Kan-sou",
+          "Kan-su",
+          "Kansou",
+          "Kansu",
+          "Kansu Province",
+          "Kansuh",
+          "Province of Gansu",
+          "Province of Kansu"
+        ],
+        "geoshape": "0c119d26"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q15175",
+        "preferredName": "Guangdong",
+        "names": [
+          "Canton",
+          "Canton Province",
+          "Guangdong",
+          "Guangdong Province",
+          "Guangdong Sheng",
+          "Guangdong province",
+          "Kuang-tung",
+          "Kuang-tung Province",
+          "Kuang-tung Sheng",
+          "Kwan-toung",
+          "Kwang-tung",
+          "Kwangtoung",
+          "Kwangtung",
+          "Kwangtung Province",
+          "Kwantoung",
+          "Province of Canton",
+          "Province of Kwangtung"
+        ],
+        "geoshape": "1034d014"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q15176",
+        "preferredName": "Guangxi",
+        "names": [
+          "Guangxi",
+          "Guangxi Autonomous Area",
+          "Guangxi Autonomous Region",
+          "Guangxi Province",
+          "Guangxi Region",
+          "Guangxi Zhuang Autonomous Region",
+          "Kuang-hsi",
+          "Kuanghsi",
+          "Kwang-hsi",
+          "Kwang-si",
+          "Kwanghsi",
+          "Kwangsi",
+          "Province of Guangxi",
+          "Quang-si",
+          "Quangsi"
+        ],
+        "geoshape": "1c9aea6e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q47097",
+        "preferredName": "Guizhou",
+        "names": [
+          "Guizhou",
+          "Guizhou (PRC)",
+          "Guizhou Province",
+          "Hoei-tcheou",
+          "Hoeitcheou",
+          "Koei-chou",
+          "Koei-tcheou",
+          "Koeichou",
+          "Koeitcheou",
+          "Kuei-chou",
+          "Kueichou",
+          "Kweichew",
+          "Kweichou",
+          "Kweichow",
+          "Province of Guizhou"
+        ],
+        "geoshape": "67092d16"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q42200",
+        "preferredName": "Hainan",
+        "names": [
+          "Hainan",
+          "Hainan province"
+        ],
+        "geoshape": "fc949646"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q21208",
+        "preferredName": "Hebei",
+        "names": [
+          "Hebei",
+          "Hebei\u2002Province",
+          "Hopeh"
+        ],
+        "geoshape": "c9b5be9e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q19206",
+        "preferredName": "Heilongjiang",
+        "names": [
+          "Heilongjiang"
+        ],
+        "geoshape": "6565a55f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43684",
+        "preferredName": "Henan",
+        "names": [
+          "He Nan",
+          "Henan",
+          "Henan Province",
+          "Henan Sheng",
+          "Ho Nan",
+          "Ho-nan",
+          "Honan",
+          "Province of Henan"
+        ],
+        "geoshape": "9cdc24d0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q46862",
+        "preferredName": "Hubei",
+        "names": [
+          "Hou-pe",
+          "Hou-pe Province",
+          "Houpe",
+          "Houpe Province",
+          "Hu-pei",
+          "Hu-pei Province",
+          "Hubei",
+          "Hubei Province"
+        ],
+        "geoshape": "c3865a90"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q45761",
+        "preferredName": "Hunan",
+        "names": [
+          "Hou-nan",
+          "Hounan",
+          "Hsiang",
+          "Hu-nan",
+          "Hunan",
+          "Hunan Province",
+          "Province of Hunan",
+          "Xiang"
+        ],
+        "geoshape": "f6c0ee6e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q41079",
+        "preferredName": "Inner Mongolia",
+        "names": [
+          "Inner Mongolia",
+          "Inner Mongolia Autonomous Region",
+          "Nei Mongol Autonomous Region"
+        ],
+        "geoshape": "1d04c416"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q16963",
+        "preferredName": "Jiangsu",
+        "names": [
+          "Chiang-su",
+          "Chiang-su Province",
+          "Chiang-su Sheng",
+          "Chiangsu",
+          "Chiangsu Province",
+          "Chiangsu Sheng",
+          "Jiangsu",
+          "Jiangsu Province",
+          "Jiangsu Sheng",
+          "Kiang Su",
+          "Kiang-su",
+          "Kiangsu",
+          "Kiangsu Province",
+          "Kiangsu Sheng",
+          "Modern Jiangsu",
+          "Province of Chiang-su",
+          "Province of Chiangsu",
+          "Province of Jiangsu",
+          "Province of Kiangsu"
+        ],
+        "geoshape": "546ce9e7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q57052",
+        "preferredName": "Jiangxi",
+        "names": [
+          "Chiang-hsi",
+          "Chianghsi",
+          "Jiangxi",
+          "Jiangxi Province",
+          "Jiangxi Sheng",
+          "Kiang-hsi",
+          "Kiang-si",
+          "Kianghsi",
+          "Kiangsi",
+          "Province of Jiangxi"
+        ],
+        "geoshape": "bba93b89"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q45208",
+        "preferredName": "Jilin",
+        "names": [
+          "Jilin"
+        ],
+        "geoshape": "d80b9895"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43934",
+        "preferredName": "Liaoning",
+        "names": [
+          "Fengtian",
+          "Leaotong",
+          "Liao-ning",
+          "Liao-tung",
+          "Liaodong",
+          "Liaoning",
+          "Liaoning Province",
+          "Province of Liaoning",
+          "Shengjing",
+          "Shengjing Province",
+          "Shinking",
+          "Shinking Province"
+        ],
+        "geoshape": "3911fff6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q57448",
+        "preferredName": "Ningxia",
+        "names": [
+          "NHAR",
+          "Ning-hsia",
+          "Ning-hsia Province",
+          "Ningsia",
+          "Ningsia Province",
+          "Ningxia",
+          "Ningxia Autonomous Region",
+          "Ningxia Hui Autonomous Region",
+          "Ningxia Province",
+          "Ningxia Region",
+          "Province of Ning-hsia",
+          "Province of Ningsia",
+          "Province of Ningxia"
+        ],
+        "geoshape": "de25d092"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q45833",
+        "preferredName": "Qinghai",
+        "names": [
+          "Ching-hai",
+          "Koko Nor",
+          "Kokonor",
+          "K\u00f6kenuur",
+          "Qinghai",
+          "Tsinghai"
+        ],
+        "geoshape": "6427cb05"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q47974",
+        "preferredName": "Shaanxi",
+        "names": [
+          "Province of Shaanxi",
+          "Shaan Xi",
+          "Shaanxi",
+          "Shaanxi Province",
+          "Shan Hsi",
+          "Shan Xi",
+          "Shan-hsi",
+          "Shanxi",
+          "Shen-si",
+          "Shensi"
+        ],
+        "geoshape": "16c15dac"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43407",
+        "preferredName": "Shandong",
+        "names": [
+          "Chan-tong",
+          "Chan-toung",
+          "Chantong",
+          "Chantoung",
+          "Cha\u00f1-toung",
+          "Cha\u00f1toung",
+          "Province of Shandong",
+          "Shan-tong",
+          "Shan-tung",
+          "Shandong",
+          "Shandong Province",
+          "Shantong",
+          "Shantung"
+        ],
+        "geoshape": "93b9c0ad"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q8686",
+        "preferredName": "Shanghai",
+        "names": [
+          "Hu",
+          "Municipality of Shanghai",
+          "Pearl of the Orient",
+          "Shang Hai",
+          "Shang-hai",
+          "Shanghae",
+          "Shanghai",
+          "Shanghai City",
+          "Shanghai Municipality",
+          "Shanghai, China",
+          "Shen",
+          "Xanghae",
+          "Zanghae"
+        ],
+        "geoshape": "be6895a2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q46913",
+        "preferredName": "Shanxi",
+        "names": [
+          "Chan-si",
+          "Chansi",
+          "Cha\u00f1-si",
+          "Cha\u00f1si",
+          "Jin",
+          "Province of Shanxi",
+          "Shan Hsi",
+          "Shan-hsi",
+          "Shan-si",
+          "Shansi",
+          "Shanxi",
+          "Shanxi Province",
+          "Shanxi Sheng"
+        ],
+        "geoshape": "aa52726a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q19770",
+        "preferredName": "Sichuan",
+        "names": [
+          "Ba",
+          "Hua-hsi",
+          "Huahsi",
+          "Huaxi",
+          "Province of Sichuan",
+          "Se-chuan",
+          "Se-tchouan",
+          "Se-tchuen",
+          "Sechuan",
+          "Sechuen",
+          "Setchouan",
+          "Setchouen",
+          "Setchuen",
+          "Shu",
+          "Sichuan",
+          "Sichuan Province",
+          "Ssu-ch'uan",
+          "Ssu-chuan",
+          "Ssuch'uan",
+          "Ssuchuan",
+          "Su-tchuen",
+          "Sutchuen",
+          "Sz-chuan",
+          "Sz-chwan",
+          "Szchuan",
+          "Sze-tschwan",
+          "Szechuan",
+          "Szechwan",
+          "Szetschwan",
+          "West China",
+          "Western China"
+        ],
+        "geoshape": "9042e417"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q11736",
+        "preferredName": "Tianjin",
+        "names": [
+          "Municipality of Tianjin",
+          "Tianjin",
+          "Tianjin Municipality",
+          "Tien-tsin",
+          "Tientsin"
+        ],
+        "geoshape": "927b6ccc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q34800",
+        "preferredName": "Xinjiang",
+        "names": [
+          "CN-65",
+          "Chinese Northwest",
+          "Chinese Turkestan",
+          "Hsin-chiang",
+          "Northwest",
+          "Northwest China",
+          "Sinkeang",
+          "Sinkiang",
+          "XUAR",
+          "Xibei",
+          "Xinjiang",
+          "Xinjiang Province",
+          "Xinjiang Uighur Autonomous Region",
+          "Xinjiang Uyghur Autonomous Region"
+        ],
+        "geoshape": "05879766"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q17269",
+        "preferredName": "Tibet Autonomous Region",
+        "names": [
+          "Hsi-tsang",
+          "Province of Tibet",
+          "Province of Xizang",
+          "Thibet",
+          "Tibet",
+          "Tibet Autonomous Region",
+          "Tibetan Autonomous Region",
+          "Xizang",
+          "Xizang Autonomous Region",
+          "Xizang Province"
+        ],
+        "geoshape": "f6235bd7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43194",
+        "preferredName": "Yunnan",
+        "names": [
+          "Province of Yunnan",
+          "Younnan",
+          "Yun Nan",
+          "Yun-nan",
+          "Yunan",
+          "Yunnan",
+          "Yunnan Province",
+          "Y\u00fcn-nan",
+          "Y\u00fcnnan"
+        ],
+        "geoshape": "f3ded8a9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q16967",
+        "preferredName": "Zhejiang",
+        "names": [
+          "Che Kiang",
+          "Che-kiang",
+          "Cheh-kiang",
+          "Chekiang",
+          "Chihkiang",
+          "Chihkiang Province",
+          "Kien-Kiang",
+          "Province of Chihkiang",
+          "Province of Zhejiang",
+          "Tche Kiang",
+          "Tche-kiang",
+          "Tchekiang",
+          "Zhejiang",
+          "Zhejiang Province"
+        ],
+        "geoshape": "2220282b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q8646",
+        "preferredName": "Hong Kong",
+        "names": [
+          "China Hong Kong",
+          "HK",
+          "HKG",
+          "HKSAR",
+          "Hong Kong",
+          "Hong Kong SAR",
+          "Hong Kong SAR, China",
+          "Hong Kong Special Administrative Region",
+          "Hong Kong Special Administrative Region of the People's Republic of China",
+          "Hong Kong, China",
+          "Hongkong",
+          "hk"
+        ],
+        "geoshape": "fe341506"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q14773",
+        "preferredName": "Macau",
+        "names": [
+          "Aomen",
+          "MO",
+          "Macao",
+          "Macao S.A.R.",
+          "Macao SAR",
+          "Macao SAR, China",
+          "Macao Special Administrative Region",
+          "Macao Special Administrative Region of the People's Republic of China",
+          "Macau",
+          "Macau SAR",
+          "Macau SAR, China",
+          "Macau Special Administrative Region",
+          "Macau Special Administrative Region of the People's Republic of China"
+        ],
+        "geoshape": "8ad9eb4f"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q155": {
+    "id": "http://www.wikidata.org/entity/Q155",
+    "name": "Brazil",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q40780",
+        "preferredName": "Acre",
+        "names": [
+          "AC",
+          "Acre",
+          "Acre State",
+          "State of Acre"
+        ],
+        "geoshape": "83a4bda7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40885",
+        "preferredName": "Alagoas",
+        "names": [
+          "AL",
+          "Alagoas",
+          "Alagoas State",
+          "State of Alagoas"
+        ],
+        "geoshape": "35de2ed9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40130",
+        "preferredName": "Amap\u00e1",
+        "names": [
+          "AP",
+          "Amapa",
+          "Amap\u00e1",
+          "BR-AP",
+          "Portuguese Guiana",
+          "State of Amap\u00e1"
+        ],
+        "geoshape": "195f14a2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40040",
+        "preferredName": "Amazonas",
+        "names": [
+          "AM",
+          "Amazonas",
+          "Amazonas (Brazil)",
+          "Amazonas State",
+          "State of Amazonas"
+        ],
+        "geoshape": "cc767244"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40430",
+        "preferredName": "Bahia",
+        "names": [
+          "BA",
+          "Bahia",
+          "Bahia State",
+          "State of Bahia"
+        ],
+        "geoshape": "55c4ad0f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40123",
+        "preferredName": "Cear\u00e1",
+        "names": [
+          "CE",
+          "Ceara State",
+          "Cear\u00e1",
+          "State of Cear\u00e1"
+        ],
+        "geoshape": "8798d9eb"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q119158",
+        "preferredName": "Federal District",
+        "names": [
+          "DF",
+          "Distrito Federal",
+          "Federal District"
+        ],
+        "geoshape": "0139b07c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43233",
+        "preferredName": "Esp\u00edrito Santo",
+        "names": [
+          "ES",
+          "Espirito Santo State",
+          "Espiritu Santo",
+          "Esp\u00edrito Santo"
+        ],
+        "geoshape": "d12786db"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q41587",
+        "preferredName": "Goi\u00e1s",
+        "names": [
+          "GO",
+          "Goias State",
+          "Goias state",
+          "Goi\u00e1s"
+        ],
+        "geoshape": "cd6cf163"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q42362",
+        "preferredName": "Maranh\u00e3o",
+        "names": [
+          "Maranhao",
+          "Maranhao State",
+          "Maranhato",
+          "Maranh\u00e3o"
+        ],
+        "geoshape": "8b1dde8e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43319",
+        "preferredName": "Mato Grosso do Sul",
+        "names": [
+          "MS",
+          "Mato Grosso do Sul",
+          "Southern Mato Grosso"
+        ],
+        "geoshape": "30e9ece7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q42824",
+        "preferredName": "Mato Grosso",
+        "names": [
+          "MT",
+          "Mato Grosso",
+          "Mato Grosso State"
+        ],
+        "geoshape": "033022bc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q39109",
+        "preferredName": "Minas Gerais",
+        "names": [
+          "MG",
+          "Minais Gerais",
+          "Minas Gerais",
+          "Minas Gerais State",
+          "Minas Gerais state"
+        ],
+        "geoshape": "b4a22fc3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q39517",
+        "preferredName": "Par\u00e1",
+        "names": [
+          "PA",
+          "Para",
+          "Para State",
+          "Par\u00e1"
+        ],
+        "geoshape": "3d196ed6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q38088",
+        "preferredName": "Para\u00edba",
+        "names": [
+          "PB",
+          "Paraiba",
+          "Paraiba State",
+          "Para\u00edba"
+        ],
+        "geoshape": "372247b0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q15499",
+        "preferredName": "Paran\u00e1",
+        "names": [
+          "PR",
+          "Parana",
+          "Parana State",
+          "Paran\u00e1"
+        ],
+        "geoshape": "99aa1da0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40942",
+        "preferredName": "Pernambuco",
+        "names": [
+          "PE",
+          "Pernambuco",
+          "Pernambuco State",
+          "Pernambuco state"
+        ],
+        "geoshape": "52425530"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q42722",
+        "preferredName": "Piau\u00ed",
+        "names": [
+          "PI",
+          "Piaui",
+          "Piaui State",
+          "Piau\u00ed"
+        ],
+        "geoshape": "59e399aa"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43255",
+        "preferredName": "Rio Grande do Norte",
+        "names": [
+          "RN",
+          "Rio Grande do Norte",
+          "Rio Grande do Norte State",
+          "Rio Grande do Norte state"
+        ],
+        "geoshape": "d9fcdfd3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40030",
+        "preferredName": "Rio Grande do Sul",
+        "names": [
+          "RS",
+          "Rio Grande do Sul",
+          "Rio Grande do Sul State"
+        ],
+        "geoshape": "5a8eb16a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q41428",
+        "preferredName": "Rio de Janeiro",
+        "names": [
+          "Estado do Rio de Janeiro",
+          "RJ",
+          "Rio de Janeiro",
+          "Rio de Janeiro (state)",
+          "Rio de Janeiro State",
+          "Rio de Janeiro state"
+        ],
+        "geoshape": "6b18e319"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43235",
+        "preferredName": "Rond\u00f4nia",
+        "names": [
+          "RO",
+          "Rondonia State",
+          "Rond\u00f4nia",
+          "Rond\u00f4nia State"
+        ],
+        "geoshape": "29faf69f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q42508",
+        "preferredName": "Roraima",
+        "names": [
+          "RR",
+          "Roraima",
+          "Roraima State",
+          "Roraima state"
+        ],
+        "geoshape": "bc2793b5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q175",
+        "preferredName": "S\u00e3o Paulo",
+        "names": [
+          "SP",
+          "State of S\u00e3o Paulo",
+          "S\u00e3o Paulo",
+          "S\u00e3o Paulo (state)",
+          "S\u00e3o Paulo state"
+        ],
+        "geoshape": "7466cf5f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q41115",
+        "preferredName": "Santa Catarina",
+        "names": [
+          "SC",
+          "Santa Catarina",
+          "Santa Catarina state"
+        ],
+        "geoshape": "5611f094"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43783",
+        "preferredName": "Sergipe",
+        "names": [
+          "SE",
+          "Sergipe",
+          "Sergipe State"
+        ],
+        "geoshape": "edbe35e3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43695",
+        "preferredName": "Tocantins",
+        "names": [
+          "Tocantins",
+          "Tocantins State"
+        ],
+        "geoshape": "46796b9a"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q159": {
+    "id": "http://www.wikidata.org/entity/Q159",
+    "name": "Russia",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q5942",
+        "preferredName": "Altai Krai",
+        "names": [
+          "Altai",
+          "Altai Krai"
+        ],
+        "geoshape": "c2514485"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5971",
+        "preferredName": "Altai Republic",
+        "names": [
+          "Altai Republic",
+          "Altay Republic"
+        ],
+        "geoshape": "656f7f94"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6886",
+        "preferredName": "Amur Oblast",
+        "names": [
+          "Amur Oblast",
+          "Amurskaya Oblast"
+        ],
+        "geoshape": "c9ceeb74"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1875",
+        "preferredName": "Arkhangelsk Oblast",
+        "names": [
+          "Arkhangelsk Oblast",
+          "Arkhangelskaya"
+        ],
+        "geoshape": "b8b8ab20"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3941",
+        "preferredName": "Astrakhan Oblast",
+        "names": [
+          "Astrakhan Oblast"
+        ],
+        "geoshape": "b2b002ed"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5710",
+        "preferredName": "Bashkortostan",
+        "names": [
+          "Bashkiria",
+          "Bashkiriya",
+          "Bashkortostan",
+          "Bashkortostan Republic",
+          "Republic of Bashkortostan"
+        ],
+        "geoshape": "23481a0b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3329",
+        "preferredName": "Belgorod Oblast",
+        "names": [
+          "Belgorod Oblast"
+        ],
+        "geoshape": "c73e1d9f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2810",
+        "preferredName": "Bryansk Oblast",
+        "names": [
+          "Bryanshchina",
+          "Bryansk Oblast",
+          "Bryanskaya oblast",
+          "Br\u00e2nsk Oblast'"
+        ],
+        "geoshape": "4f7490e5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5187",
+        "preferredName": "Chechnya",
+        "names": [
+          "Chechen Republic",
+          "Chechenia",
+          "Chechnia",
+          "Chechnya"
+        ],
+        "geoshape": "b7a2ba37"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5714",
+        "preferredName": "Chelyabinsk Oblast",
+        "names": [
+          "Chelyabinsk",
+          "Chelyabinsk Oblast"
+        ],
+        "geoshape": "925d7531"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6838",
+        "preferredName": "Zabaykalsky Krai",
+        "names": [
+          "Zabaykalsky Krai"
+        ],
+        "geoshape": "d1292cee"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q7984",
+        "preferredName": "Chukotka Autonomous Okrug",
+        "names": [
+          "Chukotka",
+          "Chukotka Autonomous Okrug"
+        ],
+        "geoshape": "3c4acd53"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5466",
+        "preferredName": "Chuvashia",
+        "names": [
+          "Chuvash Republic \u2014 Chuvashia",
+          "Chuvashia",
+          "Chuvashiya",
+          "Republic of Chuvashia"
+        ],
+        "geoshape": "fdfa8ded"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6585",
+        "preferredName": "Irkutsk Oblast",
+        "names": [
+          "Irkutsk Oblast",
+          "Irkutskaya Oblast'"
+        ],
+        "geoshape": "32496bcc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2654",
+        "preferredName": "Ivanovo Oblast",
+        "names": [
+          "Ivanovo Oblast",
+          "Ivanovo region",
+          "Ivanovskaja oblast"
+        ],
+        "geoshape": "dbae8520"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q7730",
+        "preferredName": "Jewish Autonomous Oblast",
+        "names": [
+          "JAO",
+          "Jewish Autonomous Oblast"
+        ],
+        "geoshape": "8b9dec8e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5267",
+        "preferredName": "Kabardino-Balkaria",
+        "names": [
+          "Kabardino-Balkaria",
+          "Kabardino-Balkariya",
+          "Republic of Kabardino-Balkaria"
+        ],
+        "geoshape": "f549a916"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1749",
+        "preferredName": "Kaliningrad Oblast",
+        "names": [
+          "Kaliningrad Oblast"
+        ],
+        "geoshape": "392796cc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2842",
+        "preferredName": "Kaluga Oblast",
+        "names": [
+          "Kaluga",
+          "Kaluga Oblast"
+        ],
+        "geoshape": "987fcfd9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q7948",
+        "preferredName": "Kamchatka Krai",
+        "names": [
+          "Kamchatka Krai",
+          "Kam\u010datka Kraj"
+        ],
+        "geoshape": "2eaf3f8a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5328",
+        "preferredName": "Karachay-Cherkessia",
+        "names": [
+          "Karachay-Cherkess Republic",
+          "Karachay-Cherkessia",
+          "Karachay-Cherkessiya",
+          "Karachay-Circassia",
+          "Karachay-Circassian Republic",
+          "Karachayevo-Cheresia"
+        ],
+        "geoshape": "4918ec87"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1914",
+        "preferredName": "Karelia",
+        "names": [
+          "Karelia",
+          "Karelia (Russia)",
+          "Kareliya",
+          "Karjalan Tazovaldkund",
+          "Karjalan tasavalta",
+          "Karjalan tazavalda",
+          "Republic of Karelia",
+          "Respublika Kareliya"
+        ],
+        "geoshape": "da95aaec"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6076",
+        "preferredName": "Kemerovo Oblast",
+        "names": [
+          "Kemerovo Oblast",
+          "Kemerovo Oblast \u2014 Kuzbass",
+          "Kemerovskaya Oblast\u02b9",
+          "Kuzbass"
+        ],
+        "geoshape": "3c5ceb60"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q7788",
+        "preferredName": "Khabarovsk Krai",
+        "names": [
+          "Khabarovsk",
+          "Khabarovsk Krai"
+        ],
+        "geoshape": "527947ab"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6320",
+        "preferredName": "Khanty-Mansi Autonomous Okrug",
+        "names": [
+          "KMAO",
+          "Khantia-Mansia",
+          "Khanty-Mansi Autonomous Okrug",
+          "Khanty-Mansiysk Autonomous Okrug \u2014 Ugra",
+          "Yugra"
+        ],
+        "geoshape": "1868bbc0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5387",
+        "preferredName": "Kirov Oblast",
+        "names": [
+          "Kirov",
+          "Kirov Oblast",
+          "Kirovskaya oblast"
+        ],
+        "geoshape": "53b60b87"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2073",
+        "preferredName": "Komi Republic",
+        "names": [
+          "Komi",
+          "Komi Republic",
+          "Republic of Komi"
+        ],
+        "geoshape": "cea9259e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2596",
+        "preferredName": "Kostroma Oblast",
+        "names": [
+          "Kostroma Oblast"
+        ],
+        "geoshape": "034c7c46"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3680",
+        "preferredName": "Krasnodar Krai",
+        "names": [
+          "Krasnodar Krai",
+          "Kuban"
+        ],
+        "geoshape": "8267e9c2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6563",
+        "preferredName": "Krasnoyarsk Krai",
+        "names": [
+          "Krasnoarskij kraj",
+          "Krasnojarskij Kraj",
+          "Krasnoyarsk Krai",
+          "Krasnoyarsk Kray",
+          "Krasnoyarsk Region",
+          "Krasnoyarsk Territory",
+          "Krasnoyarskiy Kray",
+          "Krasnoyarsky Krai",
+          "Krasnoyarsky Kray",
+          "Krasno\u00e2rskij kraj"
+        ],
+        "geoshape": "ecc4013f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5741",
+        "preferredName": "Kurgan Oblast",
+        "names": [
+          "Kurgan Oblast"
+        ],
+        "geoshape": "59e5e92b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3178",
+        "preferredName": "Kursk Oblast",
+        "names": [
+          "Kursk Oblast"
+        ],
+        "geoshape": "3626b076"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2191",
+        "preferredName": "Leningrad Oblast",
+        "names": [
+          "Leningrad",
+          "Leningrad Oblast",
+          "Leningradskaya Oblast"
+        ],
+        "geoshape": "fd857268"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3510",
+        "preferredName": "Lipetsk Oblast",
+        "names": [
+          "Lipetsk Oblast"
+        ],
+        "geoshape": "ccf24c6c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q7971",
+        "preferredName": "Magadan Oblast",
+        "names": [
+          "Magadan Oblast",
+          "Magadanskaya oblast"
+        ],
+        "geoshape": "6234d5db"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5446",
+        "preferredName": "Mari El",
+        "names": [
+          "Mari El",
+          "Mariy El",
+          "Republic of Mari El"
+        ],
+        "geoshape": "65ad4617"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5340",
+        "preferredName": "Mordovia",
+        "names": [
+          "Mordovia",
+          "Mordvinia",
+          "Republic of Mordvinia"
+        ],
+        "geoshape": "ff48732d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q649",
+        "preferredName": "Moscow",
+        "names": [
+          "City of Moscow",
+          "Moscow",
+          "Moscow, Russia",
+          "Moscow, Russian Federation",
+          "Moscow, Russian SFSR",
+          "Moscow, Soviet Union",
+          "Moscow, USSR",
+          "Moskov\u012d",
+          "Moskva",
+          "Moskva Federal City, Russia",
+          "Moskva, Rossiya",
+          "Moskva, Russia",
+          "Moskve",
+          "Moskvi",
+          "Moskv\u00eb",
+          "Mosky",
+          "\u041c\u043e\u0441\u043a\u0432\u0430"
+        ],
+        "geoshape": "27a7d3ef"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1697",
+        "preferredName": "Moscow Oblast",
+        "names": [
+          "Moscow Oblast",
+          "Moscow Region",
+          "Moskovskaya oblast'",
+          "Podmoskovye"
+        ],
+        "geoshape": "f7ca86bd"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1759",
+        "preferredName": "Murmansk Oblast",
+        "names": [
+          "Murmansk Oblast",
+          "Murmanskaya oblast"
+        ],
+        "geoshape": "8065c2a2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2164",
+        "preferredName": "Nenets Autonomous Okrug",
+        "names": [
+          "Nenets AO",
+          "Nenets Autonomous Okrug"
+        ],
+        "geoshape": "a6e23011"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2246",
+        "preferredName": "Nizhny Novgorod Oblast",
+        "names": [
+          "Gorky Oblast (USSR)",
+          "Nizhny Novgorod Oblast",
+          "Nizhny Novgorod region"
+        ],
+        "geoshape": "12fc6b80"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2240",
+        "preferredName": "Novgorod Oblast",
+        "names": [
+          "Novgorod Oblast"
+        ],
+        "geoshape": "103eb8ed"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5851",
+        "preferredName": "Novosibirsk Oblast",
+        "names": [
+          "Novosibirsk Oblast"
+        ],
+        "geoshape": "a7ab2597"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5835",
+        "preferredName": "Omsk Oblast",
+        "names": [
+          "Omsk Oblast",
+          "Omsk Oblast (Russia)"
+        ],
+        "geoshape": "d1470bcb"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5338",
+        "preferredName": "Orenburg Oblast",
+        "names": [
+          "Orenburg Oblast",
+          "Orenburgskai\ufe20a\ufe21 oblast\u02b9",
+          "Orenburgskaya Oblast"
+        ],
+        "geoshape": "6f4a4182"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3129",
+        "preferredName": "Oryol Oblast",
+        "names": [
+          "Orel Oblast (Russia)",
+          "Orlovskaya oblast",
+          "Oryol Oblast",
+          "Or\u00ebl Oblast'"
+        ],
+        "geoshape": "bbb9a2b6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5545",
+        "preferredName": "Penza Oblast",
+        "names": [
+          "Penza",
+          "Penza Oblast"
+        ],
+        "geoshape": "28035bea"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5400",
+        "preferredName": "Perm Krai",
+        "names": [
+          "Perm",
+          "Perm Krai"
+        ],
+        "geoshape": "2dd0f05b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q4341",
+        "preferredName": "Primorsky Krai",
+        "names": [
+          "Maritime Province",
+          "Primorsky Krai",
+          "Primorye"
+        ],
+        "geoshape": "0a3454cf"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2218",
+        "preferredName": "Pskov Oblast",
+        "names": [
+          "Pskov",
+          "Pskov Oblast"
+        ],
+        "geoshape": "47334873"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3734",
+        "preferredName": "Adygea",
+        "names": [
+          "Adygea",
+          "Adygea Republic",
+          "Adygeia",
+          "Adygeya",
+          "Adyghea",
+          "Republic of Adygea"
+        ],
+        "geoshape": "88dc6639"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6809",
+        "preferredName": "Buryatia",
+        "names": [
+          "Buryatia",
+          "Buryatiya",
+          "Republic of Buryatia",
+          "Republic of Buryatiya"
+        ],
+        "geoshape": "5ae98d27"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q15966495",
+        "preferredName": "Republic of Crimea",
+        "names": [
+          "Crimea",
+          "Republic of Crimea"
+        ],
+        "geoshape": "23d551d8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5118",
+        "preferredName": "Dagestan",
+        "names": [
+          "Dagestan",
+          "Daghestan"
+        ],
+        "geoshape": "c0ad1829"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5219",
+        "preferredName": "Ingushetia",
+        "names": [
+          "Ingushetia",
+          "Ingushetiya",
+          "Republic of Ingushetia"
+        ],
+        "geoshape": "f0ce5e15"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3953",
+        "preferredName": "Kalmykia",
+        "names": [
+          "Kalmykia",
+          "Kalmykiya"
+        ],
+        "geoshape": "cf8b6308"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6543",
+        "preferredName": "Khakassia",
+        "names": [
+          "Khakassia",
+          "Khakassiya",
+          "Republic of Khakassia"
+        ],
+        "geoshape": "c19a1782"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5237",
+        "preferredName": "North Ossetia\u2013Alania",
+        "names": [
+          "Alania",
+          "North Ossetia",
+          "North Ossetia-Alania",
+          "North Ossetia\u2013Alania",
+          "Ossetia",
+          "Republic of North Ossetia-Alania"
+        ],
+        "geoshape": "fb4371d0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3573",
+        "preferredName": "Rostov Oblast",
+        "names": [
+          "Rostov Oblast",
+          "Rostov Oblast (Russia)",
+          "Rostovska oblast",
+          "Rostovskaia oblast"
+        ],
+        "geoshape": "fc19e1ef"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2753",
+        "preferredName": "Ryazan Oblast",
+        "names": [
+          "Ryazan Oblast",
+          "Ryazan Region"
+        ],
+        "geoshape": "1d4d7dd5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q656",
+        "preferredName": "Saint Petersburg",
+        "names": [
+          "Leningrad",
+          "Petersburg",
+          "Petrograd",
+          "Saint Petersburg",
+          "Sankt-Peterburg",
+          "St Petersburg",
+          "St. Petersburg"
+        ],
+        "geoshape": "118d2835"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6605",
+        "preferredName": "Sakha",
+        "names": [
+          "Republic of Sakha",
+          "Sakha",
+          "Sakha (Yakutia)",
+          "Sakha Republic",
+          "Yakutia",
+          "Yakutiya"
+        ],
+        "geoshape": "5ea6be86"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q7797",
+        "preferredName": "Sakhalin Oblast",
+        "names": [
+          "RU-SAK",
+          "Sakhalin Oblast"
+        ],
+        "geoshape": "2e8283b8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1727",
+        "preferredName": "Samara Oblast",
+        "names": [
+          "Samara Oblast"
+        ],
+        "geoshape": "e9ff8f9b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5334",
+        "preferredName": "Saratov Oblast",
+        "names": [
+          "Saratov Oblast"
+        ],
+        "geoshape": "3353d831"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2347",
+        "preferredName": "Smolensk Oblast",
+        "names": [
+          "Smolenschina",
+          "Smolensk Oblast",
+          "Smolensk Region",
+          "Smolenskaya oblast"
+        ],
+        "geoshape": "51a417fa"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5207",
+        "preferredName": "Stavropol Krai",
+        "names": [
+          "Stavropol Krai"
+        ],
+        "geoshape": "a76dbdc7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5462",
+        "preferredName": "Sverdlovsk Oblast",
+        "names": [
+          "Sverdlovsk Oblast"
+        ],
+        "geoshape": "9d042e53"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3550",
+        "preferredName": "Tambov Oblast",
+        "names": [
+          "Tambov Oblast"
+        ],
+        "geoshape": "40200161"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5481",
+        "preferredName": "Tatarstan",
+        "names": [
+          "Republic of Tatarstan",
+          "Tataria",
+          "Tatariya",
+          "Tatarstan"
+        ],
+        "geoshape": "5c5f7dda"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5884",
+        "preferredName": "Tomsk Oblast",
+        "names": [
+          "Tomsk Oblast"
+        ],
+        "geoshape": "ffa87446"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2792",
+        "preferredName": "Tula Oblast",
+        "names": [
+          "Tula",
+          "Tula Oblast",
+          "Tulskaya Oblast"
+        ],
+        "geoshape": "26b06c74"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q960",
+        "preferredName": "Tuva",
+        "names": [
+          "Republic of Tuva",
+          "Republic of Tyva",
+          "Touva",
+          "Tuva"
+        ],
+        "geoshape": "4c1fe29e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2292",
+        "preferredName": "Tver Oblast",
+        "names": [
+          "Tver Oblast",
+          "Tverskaya oblast"
+        ],
+        "geoshape": "26162dd8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5824",
+        "preferredName": "Tyumen Oblast",
+        "names": [
+          "Tyumen Oblast"
+        ],
+        "geoshape": "10d4063c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5422",
+        "preferredName": "Udmurtia",
+        "names": [
+          "Republic of Udmurtia",
+          "Udmurtia",
+          "Udmurtiya"
+        ],
+        "geoshape": "cbc9e661"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5634",
+        "preferredName": "Ulyanovsk Oblast",
+        "names": [
+          "Ulyanovsk",
+          "Ulyanovsk Oblast"
+        ],
+        "geoshape": "f5541591"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2702",
+        "preferredName": "Vladimir Oblast",
+        "names": [
+          "Vladimir Oblast",
+          "Vladimirskaya Oblast'"
+        ],
+        "geoshape": "0d173746"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3819",
+        "preferredName": "Volgograd Oblast",
+        "names": [
+          "Volgograd Oblast",
+          "Volgograd Oblast (Russia)"
+        ],
+        "geoshape": "545c315e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2015",
+        "preferredName": "Vologda Oblast",
+        "names": [
+          "Vologda Oblast"
+        ],
+        "geoshape": "ea4923a2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3447",
+        "preferredName": "Voronezh Oblast",
+        "names": [
+          "Voronezh Oblast",
+          "Voronezhskaya Oblast'"
+        ],
+        "geoshape": "666f49b5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q6407",
+        "preferredName": "Yamalo-Nenets Autonomous Okrug",
+        "names": [
+          "YNAO",
+          "Yamalia",
+          "Yamalo-Nenets AO",
+          "Yamalo-Nenets Autonomous Okrug"
+        ],
+        "geoshape": "63648047"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2448",
+        "preferredName": "Yaroslavl Oblast",
+        "names": [
+          "Yaroslavl Oblast"
+        ],
+        "geoshape": "918b75ef"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q7525",
+        "preferredName": "Sevastopol",
+        "names": [
+          "Aqyar",
+          "Sebastopol",
+          "Sevastopil",
+          "Sevastopol",
+          "Sevastopol'",
+          "Sewastupolis",
+          "Sewast\u00fapolis"
+        ],
+        "geoshape": "3093ab40"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q252": {
+    "id": "http://www.wikidata.org/entity/Q252",
+    "name": "Indonesia",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q112810104",
+        "preferredName": "Highland Papua",
+        "names": [
+          "Highland Papua",
+          "Highland Papua Province",
+          "Highlands Papua"
+        ],
+        "geoshape": "8ffe9907"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q115253263",
+        "preferredName": "Southwest Papua",
+        "names": [
+          "Far West Papua",
+          "Papua Barat Daya",
+          "Southwest Papua",
+          "Southwest Papua Province"
+        ],
+        "geoshape": "2a24008c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q12486766",
+        "preferredName": "Central Papua",
+        "names": [
+          "Central Papua",
+          "Central Papua Province"
+        ],
+        "geoshape": "d1e154f1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3899",
+        "preferredName": "East Kalimantan",
+        "names": [
+          "East Borneo",
+          "East Kalimantan",
+          "East Kalimantan Province",
+          "Eastern Borneo",
+          "Eastern Kalimantan",
+          "Kalimantan Timur"
+        ],
+        "geoshape": "cebd0399"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3903",
+        "preferredName": "North Kalimantan",
+        "names": [
+          "Kalimantan Utara",
+          "North Borneo",
+          "North Kalimantan",
+          "North Kalimantan Province",
+          "Northern Borneo",
+          "Northern Kalimantan"
+        ],
+        "geoshape": "842cbbb2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5095",
+        "preferredName": "Papua",
+        "names": [
+          "Papua",
+          "Papua Province"
+        ],
+        "geoshape": "1de4b079"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q61439296",
+        "preferredName": "South Papua",
+        "names": [
+          "Papua Selatan",
+          "South Papua",
+          "South Papua Province"
+        ],
+        "geoshape": "dbc34c8a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1823",
+        "preferredName": "Aceh",
+        "names": [
+          "Aceh",
+          "Aceh Province",
+          "Nanggroe Aceh Darussalam",
+          "Provinsi Aceh"
+        ],
+        "geoshape": "32be8984"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3125978",
+        "preferredName": "Bali",
+        "names": [
+          "Bali",
+          "Bali Province",
+          "Province of Bali"
+        ],
+        "geoshape": "c20d278d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1866",
+        "preferredName": "Bangka Belitung Islands",
+        "names": [
+          "Babel",
+          "Bangka Belitung Islands",
+          "Bangka Belitung Islands Province"
+        ],
+        "geoshape": "5cc52f89"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3540",
+        "preferredName": "Banten",
+        "names": [
+          "Banten",
+          "Banten Province"
+        ],
+        "geoshape": "e2c7dafb"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1890",
+        "preferredName": "Bengkulu",
+        "names": [
+          "Bangkahulu",
+          "Bencoolen",
+          "Bengkulu",
+          "Bengkulu Province",
+          "Benkoelen"
+        ],
+        "geoshape": "43e627f8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5067",
+        "preferredName": "Gorontalo",
+        "names": [
+          "Gorontalo",
+          "Gorontalo (province)",
+          "Gorontalo Province"
+        ],
+        "geoshape": "fcb1c526"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5096",
+        "preferredName": "West Papua",
+        "names": [
+          "Irian Jaya Barat",
+          "West Irian Jaya",
+          "West Papua",
+          "West Papua Province"
+        ],
+        "geoshape": "8b03e1f7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3630",
+        "preferredName": "Jakarta",
+        "names": [
+          "DKI Jakarta",
+          "Djakarta",
+          "Jakarta",
+          "Jakarta Province",
+          "Jakarta, Indonesia",
+          "Special Capital Region of Jakarta",
+          "Specific Region of Jakarta"
+        ],
+        "geoshape": "185e225b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2051",
+        "preferredName": "Jambi",
+        "names": [
+          "Jambi",
+          "Jambi Province"
+        ],
+        "geoshape": "8c52425f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3724",
+        "preferredName": "West Java",
+        "names": [
+          "Jabar",
+          "Jawa Barat",
+          "Province of West Java",
+          "Provinsi Jawa Barat",
+          "West Java",
+          "West Java Province"
+        ],
+        "geoshape": "30c9db64"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3557",
+        "preferredName": "Central Java",
+        "names": [
+          "Central Java",
+          "Central Java Province",
+          "Jateng",
+          "Jawa Tengah",
+          "Jawa Tengah Province",
+          "Province of Central Java",
+          "Provinsi Jawa Tengah"
+        ],
+        "geoshape": "2894029e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3586",
+        "preferredName": "East Java",
+        "names": [
+          "East Java",
+          "East Java Province",
+          "East Java province",
+          "Jatim",
+          "Jawa Timur",
+          "Province of East Java"
+        ],
+        "geoshape": "e48cc8e5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3916",
+        "preferredName": "West Kalimantan",
+        "names": [
+          "Kalimantan Barat",
+          "West Borneo",
+          "West Kalimantan",
+          "West Kalimantan Province",
+          "Western Borneo"
+        ],
+        "geoshape": "d5afa6e7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3906",
+        "preferredName": "South Kalimantan",
+        "names": [
+          "Kalimantan Selatan",
+          "South Borneo",
+          "South Kalimantan",
+          "South Kalimantan Province",
+          "Southern Borneo"
+        ],
+        "geoshape": "983496c3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3891",
+        "preferredName": "Central Kalimantan",
+        "names": [
+          "Central Borneo",
+          "Central Kalimantan",
+          "Central Kalimantan Province",
+          "Kalimantan Tengah"
+        ],
+        "geoshape": "57c44309"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2223",
+        "preferredName": "Riau Islands",
+        "names": [
+          "Provinsi Kepulauan Riau",
+          "Riau Islands",
+          "Riau Islands Province"
+        ],
+        "geoshape": "c11fdfe6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2110",
+        "preferredName": "Lampung",
+        "names": [
+          "Lampung",
+          "Lampung Province"
+        ],
+        "geoshape": "3ecd897d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5094",
+        "preferredName": "North Maluku",
+        "names": [
+          "North Maluku",
+          "North Maluku Province"
+        ],
+        "geoshape": "2e71f3c9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5093",
+        "preferredName": "Maluku",
+        "names": [
+          "Maluku",
+          "Maluku Province"
+        ],
+        "geoshape": "0f9507df"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5062",
+        "preferredName": "West Nusa Tenggara",
+        "names": [
+          "NTB",
+          "Nusa Tenggara Barat",
+          "West Nusa Tenggara",
+          "West Nusa Tenggara Province",
+          "West Nusa Tenggara, Indonesia"
+        ],
+        "geoshape": "901f8c69"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5061",
+        "preferredName": "East Nusa Tenggara",
+        "names": [
+          "East Nusa Tenggara",
+          "East Nusa Tenggara Province",
+          "NTT",
+          "Nusa Tenggara Timor province",
+          "Province of Nusa Tenggara Timur",
+          "Southeast East Nusa"
+        ],
+        "geoshape": "aae80985"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2175",
+        "preferredName": "Riau",
+        "names": [
+          "Riau",
+          "Riau Province",
+          "Siak Sri indrapura"
+        ],
+        "geoshape": "c6718e6c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5082",
+        "preferredName": "West Sulawesi",
+        "names": [
+          "West Sulawesi",
+          "West Sulawesi Province"
+        ],
+        "geoshape": "0d9eb5e2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5078",
+        "preferredName": "South Sulawesi",
+        "names": [
+          "South Sulawesi",
+          "South Sulawesi Province"
+        ],
+        "geoshape": "94ae20a9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5065",
+        "preferredName": "Central Sulawesi",
+        "names": [
+          "Central Sulawesi",
+          "Central Sulawesi Province",
+          "Sulawesi Tengah Province",
+          "Sulteng"
+        ],
+        "geoshape": "435de37b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5075",
+        "preferredName": "Southeast Sulawesi",
+        "names": [
+          "Southeast Sulawesi",
+          "Southeast Sulawesi Province",
+          "Sulawesi Tenggara"
+        ],
+        "geoshape": "6bf8e3c8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5068",
+        "preferredName": "North Sulawesi",
+        "names": [
+          "North Sulawesi",
+          "North Sulawesi Province",
+          "Sulawesi Utara"
+        ],
+        "geoshape": "f4fde1b4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2772",
+        "preferredName": "West Sumatra",
+        "names": [
+          "West Sumatra",
+          "West Sumatra Province"
+        ],
+        "geoshape": "fc6a3a5c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2271",
+        "preferredName": "South Sumatra",
+        "names": [
+          "South Sumatra",
+          "South Sumatra Province",
+          "Sumatra Selatan"
+        ],
+        "geoshape": "23b778b5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q2140",
+        "preferredName": "North Sumatra",
+        "names": [
+          "North Sumatra",
+          "North Sumatra Province"
+        ],
+        "geoshape": "620315e9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3741",
+        "preferredName": "Yogyakarta",
+        "names": [
+          "D.I.Y.",
+          "D.I.Yogyakarta",
+          "Jogja",
+          "Jogjakarta",
+          "Special Region of Yogyakarta Province",
+          "Yogyakarta"
+        ],
+        "geoshape": "c52615ee"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q30": {
+    "id": "http://www.wikidata.org/entity/Q30",
+    "name": "United States",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q173",
+        "preferredName": "Alabama",
+        "names": [
+          "AL",
+          "Ala",
+          "Ala.",
+          "Alabama",
+          "Bama",
+          "Heart of Dixie",
+          "State of Alabama",
+          "The Yellowhammer State",
+          "US-AL"
+        ],
+        "geoshape": "3a880f4e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q797",
+        "preferredName": "Alaska",
+        "names": [
+          "AK",
+          "Alaska",
+          "Alaska, United States",
+          "State of Alaska",
+          "The Last Frontier",
+          "US-AK"
+        ],
+        "geoshape": "d9199a38"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q16641",
+        "preferredName": "American Samoa",
+        "names": [
+          "AS",
+          "ASA",
+          "American Samoa",
+          "American S\u0101moa",
+          "East Samoa",
+          "ISO 3166-1:AS",
+          "Samoa (American)",
+          "Samoa, United States",
+          "Territory of American Samoa",
+          "U.S. Samoa",
+          "US Samoa",
+          "US-AS",
+          "as"
+        ],
+        "geoshape": "0544080c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q816",
+        "preferredName": "Arizona",
+        "names": [
+          "AZ",
+          "Ariz.",
+          "Arizona",
+          "Arizona, United States",
+          "Grand Canyon State",
+          "State of Arizona",
+          "The Grand Canyon State",
+          "US-AZ"
+        ],
+        "geoshape": "c716d198"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1612",
+        "preferredName": "Arkansas",
+        "names": [
+          "AR",
+          "AR-k\u0259n-saw",
+          "ARk\u0259nsaw",
+          "Ark.",
+          "Arkansas",
+          "Arkansas, United States",
+          "Arkansaw",
+          "Arkensaw",
+          "State of Arkansas",
+          "The Natural State",
+          "US-AR"
+        ],
+        "geoshape": "43b17be4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q99",
+        "preferredName": "California",
+        "names": [
+          "CA",
+          "Cal.",
+          "Cali.",
+          "Calif.",
+          "California",
+          "California, United States",
+          "State of California",
+          "The Golden State",
+          "US-CA"
+        ],
+        "geoshape": "ac4a8213"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1261",
+        "preferredName": "Colorado",
+        "names": [
+          "CO",
+          "Centennial State",
+          "Colo.",
+          "Colorado",
+          "Colorado, United States",
+          "State of Colorado",
+          "US-CO"
+        ],
+        "geoshape": "25543c73"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q779",
+        "preferredName": "Connecticut",
+        "names": [
+          "5th State",
+          "CT",
+          "CT, USA",
+          "Conn.",
+          "Connecticut",
+          "Connecticut (U.S. state)",
+          "Connecticut (state)",
+          "Connecticut state",
+          "Connecticut, U.S.",
+          "Connecticut, United States",
+          "Conneticut",
+          "Constitution State",
+          "State of Connecticut",
+          "The Constitution State",
+          "The Nutmeg State",
+          "US-CT"
+        ],
+        "geoshape": "8db940e2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1393",
+        "preferredName": "Delaware",
+        "names": [
+          "Blue Hen State",
+          "DE",
+          "Delaware",
+          "Delaware, United States",
+          "State of Delaware",
+          "The Diamond State",
+          "The First State",
+          "The Small Wonder",
+          "US-DE"
+        ],
+        "geoshape": "5c71e959"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3551781",
+        "preferredName": "District of Columbia",
+        "names": [
+          "D.C.",
+          "DC",
+          "District of Columbia"
+        ],
+        "geoshape": "aee75e9f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q812",
+        "preferredName": "Florida",
+        "names": [
+          "FL",
+          "Fla.",
+          "Florida",
+          "Florida, United States",
+          "Peninsular State",
+          "State of Florida",
+          "Sunshine State",
+          "The Gator State",
+          "The Sunshine State",
+          "US-FL"
+        ],
+        "geoshape": "97431254"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1428",
+        "preferredName": "Georgia",
+        "names": [
+          "GA",
+          "Georgia",
+          "Georgia, United States",
+          "State of Georgia",
+          "The Empire State of the South",
+          "The Goober State",
+          "The Peach State",
+          "US-GA"
+        ],
+        "geoshape": "0c91289c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q16635",
+        "preferredName": "Guam",
+        "names": [
+          "GU",
+          "GUM",
+          "Guahan",
+          "Guam",
+          "Guam (USA)",
+          "Gu\u00e5han",
+          "Gu\u00e5h\u00e5n",
+          "ISO 3166-1:GU",
+          "Island of Guam",
+          "Territory of Guam",
+          "US-GU"
+        ],
+        "geoshape": "675faac5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q782",
+        "preferredName": "Hawaii",
+        "names": [
+          "Hawaii",
+          "Hawaii State",
+          "Hawaii, United States",
+          "Kaimana Hila",
+          "State of Hawaii",
+          "The Aloha State"
+        ],
+        "geoshape": "e34e5aae"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1221",
+        "preferredName": "Idaho",
+        "names": [
+          "Gem State",
+          "ID",
+          "Idaho",
+          "Idaho, United States",
+          "Potato State",
+          "State of Idaho",
+          "US-ID"
+        ],
+        "geoshape": "e6367cfe"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1204",
+        "preferredName": "Illinois",
+        "names": [
+          "IL",
+          "Ill.",
+          "Illinois",
+          "Illinois, United States",
+          "Ills.",
+          "Land of Lincoln",
+          "Lincoln State",
+          "Prairie State",
+          "State of Illinois",
+          "The Land of Lincoln",
+          "The Prairie State",
+          "US-IL"
+        ],
+        "geoshape": "2f97fec4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1415",
+        "preferredName": "Indiana",
+        "names": [
+          "Hoosier State",
+          "IN",
+          "Ind.",
+          "Indiana",
+          "Indiana, United States",
+          "State of Indiana",
+          "US-IN"
+        ],
+        "geoshape": "ba9777dc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1546",
+        "preferredName": "Iowa",
+        "names": [
+          "Hawk-eye State",
+          "IA",
+          "Iowa",
+          "Iowa, United States",
+          "State of Iowa",
+          "The Land Between Two Rivers",
+          "US-IA"
+        ],
+        "geoshape": "a565dcdb"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1558",
+        "preferredName": "Kansas",
+        "names": [
+          "KS",
+          "Kan.",
+          "Kans.",
+          "Kansas",
+          "Kansas, United States of America",
+          "State of Kansas",
+          "Sunflower State",
+          "US-KS"
+        ],
+        "geoshape": "bdcf3069"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1603",
+        "preferredName": "Kentucky",
+        "names": [
+          "Bluegrass State",
+          "Commonwealth of Kentucky",
+          "KY",
+          "Kentucky",
+          "Kentucky, United States",
+          "Ky.",
+          "US-KY"
+        ],
+        "geoshape": "5939388c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1588",
+        "preferredName": "Louisiana",
+        "names": [
+          "18th State",
+          "LA",
+          "Louisiana",
+          "Louisiana, United States",
+          "Pelican State",
+          "State of Louisiana",
+          "US-LA"
+        ],
+        "geoshape": "f61ee2ae"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q724",
+        "preferredName": "Maine",
+        "names": [
+          "ME",
+          "Maine",
+          "Maine, United States",
+          "State of Maine",
+          "The Pine Tree State",
+          "US-ME"
+        ],
+        "geoshape": "78de8bcf"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1391",
+        "preferredName": "Maryland",
+        "names": [
+          "MD",
+          "Maryland",
+          "Maryland, United States",
+          "Md.",
+          "Old Line State",
+          "State of Maryland",
+          "US-MD"
+        ],
+        "geoshape": "1e99d104"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q771",
+        "preferredName": "Massachusetts",
+        "names": [
+          "6th State",
+          "Bay State",
+          "Commonwealth of MA",
+          "Commonwealth of Massachusetts",
+          "MA",
+          "Mass.",
+          "Massachusetts",
+          "Massachusetts (U.S. state)",
+          "Massachusetts state",
+          "Massachusetts, United States",
+          "Masshole Commonwealth",
+          "State of Massachusetts",
+          "Taxachusetts",
+          "The Bay State",
+          "The Commonwealth of Massachusetts",
+          "US-MA"
+        ],
+        "geoshape": "62c904af"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1166",
+        "preferredName": "Michigan",
+        "names": [
+          "Great Lakes State",
+          "MI",
+          "Mich.",
+          "Michigan",
+          "Michigan, United States",
+          "State of Michigan",
+          "US-MI",
+          "Wolverine State"
+        ],
+        "geoshape": "bc68037e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1527",
+        "preferredName": "Minnesota",
+        "names": [
+          "Land of 10,000 Lakes",
+          "MN",
+          "Minn.",
+          "Minnesota",
+          "Minnesota, United States",
+          "North Star State",
+          "State of Minnesota",
+          "US-MN"
+        ],
+        "geoshape": "f7bcd6ad"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1494",
+        "preferredName": "Mississippi",
+        "names": [
+          "MS",
+          "Magnolia State",
+          "Miss.",
+          "Mississippi",
+          "Mississippi (state)",
+          "Mississippi, United States",
+          "State of Mississippi",
+          "US-MS"
+        ],
+        "geoshape": "81fe95e2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1581",
+        "preferredName": "Missouri",
+        "names": [
+          "MO",
+          "Missouri",
+          "Missouri, United States",
+          "Mo.",
+          "State of Missouri",
+          "The Show Me State",
+          "US-MO"
+        ],
+        "geoshape": "34ce7a3f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1212",
+        "preferredName": "Montana",
+        "names": [
+          "Big Sky Country",
+          "MT",
+          "Mont.",
+          "Montana",
+          "Montana, United States",
+          "State of Montana",
+          "Treasure State",
+          "US-MT"
+        ],
+        "geoshape": "0a1aba4e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1553",
+        "preferredName": "Nebraska",
+        "names": [
+          "Cornhusker State",
+          "NE",
+          "Neb.",
+          "Nebr.",
+          "Nebraska",
+          "Nebraska, United States",
+          "State of Nebraska",
+          "US-NE"
+        ],
+        "geoshape": "a2ffb85b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1227",
+        "preferredName": "Nevada",
+        "names": [
+          "NV",
+          "Nev.",
+          "Nevada",
+          "Nevada, United States",
+          "State of Nevada",
+          "The Silver State",
+          "US-NV"
+        ],
+        "geoshape": "95928fca"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q759",
+        "preferredName": "New Hampshire",
+        "names": [
+          "N.H.",
+          "NH",
+          "New Hampshire",
+          "New Hampshire, United States",
+          "State of New Hampshire",
+          "The Granite State",
+          "US-NH"
+        ],
+        "geoshape": "cfd4ea3f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1408",
+        "preferredName": "New Jersey",
+        "names": [
+          "Garden State",
+          "Iersey",
+          "Jersey",
+          "N.J.",
+          "NJ",
+          "New Iersey",
+          "New Jersey",
+          "New Jersey, United States",
+          "State of New Jersey",
+          "US-NJ",
+          "the Garden State",
+          "the State of New Jersey"
+        ],
+        "geoshape": "f941cba0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1522",
+        "preferredName": "New Mexico",
+        "names": [
+          "Land of Enchantment",
+          "N. Mex.",
+          "N.M.",
+          "NM",
+          "New Mexico",
+          "New Mexico, United States",
+          "State of New Mexico",
+          "US-NM"
+        ],
+        "geoshape": "a57e8335"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1384",
+        "preferredName": "New York",
+        "names": [
+          "Empire State",
+          "NY",
+          "NY state",
+          "NYS",
+          "New York",
+          "New York (state)",
+          "New York state",
+          "New York, United States",
+          "State of New York",
+          "The Empire State",
+          "US-NY"
+        ],
+        "geoshape": "f32430ef"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1454",
+        "preferredName": "North Carolina",
+        "names": [
+          "N.C.",
+          "NC",
+          "NC, United States",
+          "North Carolina",
+          "North Carolina (US)",
+          "North Carolina, United States",
+          "State of North Carolina",
+          "Tar Heel State",
+          "The Tar Heel State",
+          "US-NC"
+        ],
+        "geoshape": "675ed6da"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1207",
+        "preferredName": "North Dakota",
+        "names": [
+          "Flickertail State",
+          "N. Dak.",
+          "N. Dakota",
+          "N.D.",
+          "ND",
+          "NoDak",
+          "North Dakota",
+          "North Dakota, United States",
+          "Peace Garden State",
+          "Roughrider State",
+          "State of North Dakota",
+          "US-ND"
+        ],
+        "geoshape": "252cc9e3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q16644",
+        "preferredName": "Northern Mariana Islands",
+        "names": [
+          "CNMI",
+          "Commonwealth of the Northern Maria Islands",
+          "Commonwealth of the Northern Mariana Islands",
+          "ISO 3166-1:MP",
+          "MP",
+          "NMI",
+          "Northern Mariana Islands",
+          "Northern Marianas",
+          "US-MP",
+          "mp",
+          "nmi",
+          "the Northern Mariana Islands"
+        ],
+        "geoshape": "afbf3793"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1397",
+        "preferredName": "Ohio",
+        "names": [
+          "Buckeye State",
+          "OH",
+          "Ohio",
+          "Ohio, United States",
+          "State of Ohio",
+          "US-OH"
+        ],
+        "geoshape": "3fd89a12"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1649",
+        "preferredName": "Oklahoma",
+        "names": [
+          "OK",
+          "Okla.",
+          "Oklahoma",
+          "Oklahoma, United States",
+          "State of Oklahoma",
+          "The Sooner State",
+          "US-OK"
+        ],
+        "geoshape": "12d104d4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q824",
+        "preferredName": "Oregon",
+        "names": [
+          "OR",
+          "Ore.",
+          "Oreg.",
+          "Oregon",
+          "Oregon, United States",
+          "State of Oregon",
+          "The Beaver State",
+          "US-OR"
+        ],
+        "geoshape": "2e0f0e4b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1400",
+        "preferredName": "Pennsylvania",
+        "names": [
+          "Commonwealth of Pennsylvania",
+          "Keystone State",
+          "PA",
+          "Pa.",
+          "Penna.",
+          "Pennsylvania",
+          "Pennsylvania, United States",
+          "State of Pennsylvania",
+          "US-PA"
+        ],
+        "geoshape": "27b4c588"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1183",
+        "preferredName": "Puerto Rico",
+        "names": [
+          "Borik\u00e9n",
+          "Borinquen",
+          "Boriqu\u00e9n",
+          "Commonwealth of Puerto Rico",
+          "Free Associated State of Puerto Rico",
+          "Island of Enchantment",
+          "Isle of Enchantment",
+          "Porto Rico",
+          "Puerto Rico",
+          "Puerto Rico (USA)",
+          "Puerto Rico, USA",
+          "Territory of Puerto Rico"
+        ],
+        "geoshape": "4dd771af"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1387",
+        "preferredName": "Rhode Island",
+        "names": [
+          "13th State",
+          "Little Rhody",
+          "Ocean State",
+          "Providence Plantations",
+          "RI",
+          "Rhode Island",
+          "Rhode Island (U.S. state)",
+          "Rhode Island (state)",
+          "Rhode Island State",
+          "Rhode Island and Providence Plantations",
+          "Rhode Island state",
+          "Rhode Island, United States",
+          "Rhode island",
+          "Rhode island and providence plantations",
+          "Rhode island state",
+          "RhodeIsland",
+          "Road Island",
+          "State of Rhode Island",
+          "State of Rhode Island and Providence Plantations",
+          "The Ocean State",
+          "The State of Rhode Island and Providence Plantations",
+          "US-RI",
+          "little rhodie"
+        ],
+        "geoshape": "ecdd5ce5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1456",
+        "preferredName": "South Carolina",
+        "names": [
+          "Palmetto State",
+          "S. C.",
+          "S.C.",
+          "SC",
+          "South Carolina",
+          "South Carolina, United States",
+          "State of South Carolina",
+          "US-SC"
+        ],
+        "geoshape": "04a631e2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1211",
+        "preferredName": "South Dakota",
+        "names": [
+          "S. Dak.",
+          "S. Dakota",
+          "S.D.",
+          "SD",
+          "SoDak",
+          "South Dakota",
+          "South Dakota, United States",
+          "State of South Dakota",
+          "The Coyote State",
+          "The Mount Rushmore State",
+          "US-SD"
+        ],
+        "geoshape": "56fbd36e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1509",
+        "preferredName": "Tennessee",
+        "names": [
+          "State of Tennessee",
+          "TN",
+          "Tenn.",
+          "Tennessee",
+          "Tennessee, United States",
+          "US-TN",
+          "Volunteer State"
+        ],
+        "geoshape": "0875d43c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1439",
+        "preferredName": "Texas",
+        "names": [
+          "Lone Star State",
+          "State of Texas",
+          "TX",
+          "Tex.",
+          "Texas",
+          "Texas, United States",
+          "US-TX"
+        ],
+        "geoshape": "4bc10ba9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q11703",
+        "preferredName": "United States Virgin Islands",
+        "names": [
+          "American Virgin Islands",
+          "ISV",
+          "U.S. Virgin Islands",
+          "US Virgin Islands",
+          "US-VI",
+          "USVI",
+          "United States Virgin Islands",
+          "VI",
+          "Virgin Islands of the United States",
+          "the United States Virgin Islands"
+        ],
+        "geoshape": "630c7bdc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q829",
+        "preferredName": "Utah",
+        "names": [
+          "Beehive State",
+          "State of Utah",
+          "US-UT",
+          "UT",
+          "Utah",
+          "Utah, United States"
+        ],
+        "geoshape": "c56d9ec4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q16551",
+        "preferredName": "Vermont",
+        "names": [
+          "State of Vermont",
+          "The Green Mountain State",
+          "US-VT",
+          "VT",
+          "Vermont",
+          "Vermont, United States",
+          "Vt."
+        ],
+        "geoshape": "ed895b13"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1370",
+        "preferredName": "Virginia",
+        "names": [
+          "Commonwealth of Virginia",
+          "Old Dominion",
+          "State of Virginia",
+          "US-VA",
+          "VA",
+          "Va.",
+          "Virginia",
+          "Virginia, United States"
+        ],
+        "geoshape": "3ab56600"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1223",
+        "preferredName": "Washington",
+        "names": [
+          "Evergreen State",
+          "State of Washington",
+          "US-WA",
+          "WA",
+          "Washington",
+          "Washington (state)",
+          "Washington State"
+        ],
+        "geoshape": "8ca14ca0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1371",
+        "preferredName": "West Virginia",
+        "names": [
+          "Almost Heaven",
+          "State of West Virginia",
+          "The Mountain State",
+          "US-WV",
+          "W. Va.",
+          "W.Va.",
+          "WV",
+          "West Virginia",
+          "West Virginia, United States"
+        ],
+        "geoshape": "03703b5a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1537",
+        "preferredName": "Wisconsin",
+        "names": [
+          "Badger State",
+          "State of Wisconsin",
+          "US-WI",
+          "WI",
+          "Wis.",
+          "Wisconsin",
+          "Wisconsin, United States"
+        ],
+        "geoshape": "6a5901af"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1214",
+        "preferredName": "Wyoming",
+        "names": [
+          "Big Wyoming",
+          "State of Wyoming",
+          "The Cowboy State",
+          "The Equality State",
+          "US-WY",
+          "WY",
+          "Wyo",
+          "Wyo.",
+          "Wyoming",
+          "Wyoming, United States"
+        ],
+        "geoshape": "028021af"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q668": {
+    "id": "http://www.wikidata.org/entity/Q668",
+    "name": "India",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q1180",
+        "preferredName": "Jammu and Kashmir",
+        "names": [
+          "J&K",
+          "JK",
+          "Jammu Kashmir",
+          "Jammu and Kashmir",
+          "Jammu and Kashmir (state)"
+        ],
+        "geoshape": "0fe932a2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1353",
+        "preferredName": "Delhi",
+        "names": [
+          "Dehlee",
+          "Dehli",
+          "Dehl\u012b",
+          "Delhi",
+          "Dilli",
+          "Dill\u012b"
+        ],
+        "geoshape": "cbbaec11"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q26927",
+        "preferredName": "Lakshadweep",
+        "names": [
+          "Laccadive, Minicoy, and Amindivi Islands",
+          "Lakshadweep"
+        ],
+        "geoshape": "7e9741f3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43433",
+        "preferredName": "Chandigarh",
+        "names": [
+          "Chandigarh",
+          "The city beautiful"
+        ],
+        "geoshape": "026a292a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q77997266",
+        "preferredName": "Dadra and Nagar Haveli and Daman and Diu",
+        "names": [
+          "DNHDD, IN-DD",
+          "Dadra and Nagar Haveli and Daman and Diu"
+        ],
+        "geoshape": "f0294876"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40888",
+        "preferredName": "Andaman and Nicobar Islands",
+        "names": [
+          "Andaman & Nicobar Islands",
+          "Andaman and Nicobar Islands"
+        ],
+        "geoshape": "5bbf88da"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1159",
+        "preferredName": "Andhra Pradesh",
+        "names": [
+          "AP",
+          "Andhra Pradesh"
+        ],
+        "geoshape": "17cfcd2c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1162",
+        "preferredName": "Arunachal Pradesh",
+        "names": [
+          "Arunachal Pradesh"
+        ],
+        "geoshape": "fae961b5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1164",
+        "preferredName": "Assam",
+        "names": [
+          "Asom",
+          "Assam",
+          "Axom",
+          "The Land of Red Rivers and Blue Hills"
+        ],
+        "geoshape": "ee57f6e3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1165",
+        "preferredName": "Bihar",
+        "names": [
+          "Bahar",
+          "Behar",
+          "Bihar"
+        ],
+        "geoshape": "cf514d82"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1168",
+        "preferredName": "Chhattisgarh",
+        "names": [
+          "Chattisgarh",
+          "Chhatisgarh State",
+          "Chhattisgarh",
+          "IN-CT",
+          "State of Chhattisgarh"
+        ],
+        "geoshape": "085a846a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q46107",
+        "preferredName": "Dadra and Nagar Haveli district",
+        "names": [
+          "D&NH",
+          "DNH",
+          "DNH district",
+          "Dadra & Nagar Haveli district",
+          "Dadra and Nagar Haveli district"
+        ],
+        "geoshape": "ad806e52"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q66710",
+        "preferredName": "Daman and Diu",
+        "names": [
+          "Daman and Diu"
+        ],
+        "geoshape": "d1f0c731"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1171",
+        "preferredName": "Goa",
+        "names": [
+          "Goa"
+        ],
+        "geoshape": "ffa98d6a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1061",
+        "preferredName": "Gujarat",
+        "names": [
+          "Gujarat",
+          "Guzerat",
+          "Guzeratte",
+          "State of Gujarat"
+        ],
+        "geoshape": "0c1cf3ac"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1174",
+        "preferredName": "Haryana",
+        "names": [
+          "Haryana"
+        ],
+        "geoshape": "16967138"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1177",
+        "preferredName": "Himachal Pradesh",
+        "names": [
+          "H. P.",
+          "HP",
+          "Himachal",
+          "Himachal Pradesh"
+        ],
+        "geoshape": "dd717740"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q66278313",
+        "preferredName": "Jammu and Kashmir",
+        "names": [
+          "J&K",
+          "JK",
+          "Jammu Kashmir",
+          "Jammu and Kashmir"
+        ],
+        "geoshape": "0fe932a2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1184",
+        "preferredName": "Jharkhand",
+        "names": [
+          "Jharkhand"
+        ],
+        "geoshape": "8ddbb233"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1185",
+        "preferredName": "Karnataka",
+        "names": [
+          "Karnataka"
+        ],
+        "geoshape": "2bad6e10"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1186",
+        "preferredName": "Kerala",
+        "names": [
+          "God's Own Country",
+          "IN-KL",
+          "Kerala",
+          "Keralam",
+          "Land of coconuts"
+        ],
+        "geoshape": "8d04f834"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q200667",
+        "preferredName": "Ladakh",
+        "names": [
+          "Ladak",
+          "Ladakh",
+          "Laddakh",
+          "Ladhak"
+        ],
+        "geoshape": "95f4a757"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1188",
+        "preferredName": "Madhya Pradesh",
+        "names": [
+          "Madhya Pradesh"
+        ],
+        "geoshape": "29fc04b6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1191",
+        "preferredName": "Maharashtra",
+        "names": [
+          "Maharashtra"
+        ],
+        "geoshape": "f56d8ea7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1193",
+        "preferredName": "Manipur",
+        "names": [
+          "Manipur"
+        ],
+        "geoshape": "33dd1136"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1195",
+        "preferredName": "Meghalaya",
+        "names": [
+          "Meghalaya",
+          "Megh\u0101laya"
+        ],
+        "geoshape": "36a10810"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1502",
+        "preferredName": "Mizoram",
+        "names": [
+          "Mizoram"
+        ],
+        "geoshape": "af4e5d5f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1599",
+        "preferredName": "Nagaland",
+        "names": [
+          "Nagaland",
+          "N\u00e1g\u00e1land",
+          "N\u0101g\u0101land"
+        ],
+        "geoshape": "0bd7015c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q22048",
+        "preferredName": "Odisha",
+        "names": [
+          "Kalinga",
+          "Odisha",
+          "Orissa",
+          "Utkal"
+        ],
+        "geoshape": "a81f2fc8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q66743",
+        "preferredName": "Puducherry",
+        "names": [
+          "Pondicherry",
+          "Pondich\u00e9ry",
+          "Pondy",
+          "Puducherry",
+          "Puduvai"
+        ],
+        "geoshape": "7f881de1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q22424",
+        "preferredName": "Punjab",
+        "names": [
+          "East Punjab",
+          "Land of Five Rivers",
+          "Punjab",
+          "Punjab State",
+          "Punjab, India"
+        ],
+        "geoshape": "02e0d148"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1437",
+        "preferredName": "Rajasthan",
+        "names": [
+          "Rajasthan",
+          "Rajputana"
+        ],
+        "geoshape": "ef56a587"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1505",
+        "preferredName": "Sikkim",
+        "names": [
+          "Sikkim"
+        ],
+        "geoshape": "c39e53d0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1445",
+        "preferredName": "Tamil Nadu",
+        "names": [
+          "Tamil Nadu"
+        ],
+        "geoshape": "65dfb8d6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q677037",
+        "preferredName": "Telangana",
+        "names": [
+          "Telangana",
+          "Telangana (India)"
+        ],
+        "geoshape": "e03845fa"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1363",
+        "preferredName": "Tripura",
+        "names": [
+          "Tripura"
+        ],
+        "geoshape": "487cde80"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1498",
+        "preferredName": "Uttar Pradesh",
+        "names": [
+          "UP",
+          "Uttar Pradesh"
+        ],
+        "geoshape": "40cfb9af"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1499",
+        "preferredName": "Uttarakhand",
+        "names": [
+          "Uttarakhand",
+          "Uttaranchal"
+        ],
+        "geoshape": "ee90b341"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1356",
+        "preferredName": "West Bengal",
+        "names": [
+          "Paschimbanga",
+          "WB",
+          "West Bengal"
+        ],
+        "geoshape": "c312cb5e"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q843": {
+    "id": "http://www.wikidata.org/entity/Q843",
+    "name": "Pakistan",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q183314",
+        "preferredName": "Khyber Pakhtunkhwa",
+        "names": [
+          "KP",
+          "KPK",
+          "Khyber Pakhtunkhwa",
+          "Sarhad Province"
+        ],
+        "geoshape": "b62b3e95"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q848613",
+        "preferredName": "Islamabad Capital Territory",
+        "names": [
+          "Federal Capital Territory of Islamabad",
+          "ICT",
+          "Islamabad CT",
+          "Islamabad Capital Territory"
+        ],
+        "geoshape": "a5fcb207"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q200130",
+        "preferredName": "Azad Kashmir",
+        "names": [
+          "AJ&K",
+          "AJK",
+          "Azad Jammu & Kashmir",
+          "Azad Jammu and Kashmir",
+          "Azad Kashmir"
+        ],
+        "geoshape": "b55bcd84"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q163239",
+        "preferredName": "Balochistan",
+        "names": [
+          "Balochistan",
+          "Balouchistan",
+          "Baloutchistan",
+          "Baluchestan",
+          "Baluchistan",
+          "Beloochistan"
+        ],
+        "geoshape": "53e10074"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q200697",
+        "preferredName": "Gilgit-Baltistan",
+        "names": [
+          "Gilgit-Baltistan",
+          "Gilgit\u2013Baltistan",
+          "Northern Areas"
+        ],
+        "geoshape": "93bc5046"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q4478",
+        "preferredName": "Punjab",
+        "names": [
+          "Panjab",
+          "Punjab",
+          "Punjab (Pakistan)",
+          "Punjab Province",
+          "Punjab, Pakistan"
+        ],
+        "geoshape": "cc84d8b8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q37211",
+        "preferredName": "Sindh",
+        "names": [
+          "Mehran",
+          "Province of Sind",
+          "Province of Sinde",
+          "Province of Sindh",
+          "Province of Sindhu",
+          "Sind",
+          "Sind Province",
+          "Sinde",
+          "Sinde Province",
+          "Sindh",
+          "Sindh Province",
+          "Sindhu",
+          "Sindhu Province"
+        ],
+        "geoshape": "22bf1419"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q902": {
+    "id": "http://www.wikidata.org/entity/Q902",
+    "name": "Bangladesh",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q19594930",
+        "preferredName": "Mymensingh Division",
+        "names": [
+          "Mymensingh Division"
+        ],
+        "geoshape": "a8539db4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q459723",
+        "preferredName": "Barisal Division",
+        "names": [
+          "Barisal Division"
+        ],
+        "geoshape": "41f8cecc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q158087",
+        "preferredName": "Chattogram Division",
+        "names": [
+          "Chattogram Division",
+          "Chittagong Division"
+        ],
+        "geoshape": "a5b0d039"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q330158",
+        "preferredName": "Dhaka Division",
+        "names": [
+          "Dhaka Division"
+        ],
+        "geoshape": "b0969575"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q501696",
+        "preferredName": "Khulna Division",
+        "names": [
+          "Khulna Division"
+        ],
+        "geoshape": "f297d429"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q379382",
+        "preferredName": "Rajshahi Division",
+        "names": [
+          "Rajshahi Division"
+        ],
+        "geoshape": "c57bdd3c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q876023",
+        "preferredName": "Rangpur Division",
+        "names": [
+          "Rangpur Division"
+        ],
+        "geoshape": "eeb5df1a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q459732",
+        "preferredName": "Sylhet Division",
+        "names": [
+          "Srihatta",
+          "Sylhet",
+          "Sylhet Division"
+        ],
+        "geoshape": "83e0259c"
+      }
+    ]
+  }
+}

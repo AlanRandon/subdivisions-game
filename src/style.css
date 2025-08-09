@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@utility shadow-hard {
+  box-shadow: var(--color-stone-900) 10px 10px;
+}
+
+@utility btn {
+  @apply ring-offset-2 ring-offset-stone-50 ring-2 ring-stone-900 bg-pink-300 px-2 flex items-center gap-2;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  min-height: 100%;
+  display: flex;
+}
+
+body {
+  margin: 0;
+  flex-grow: 1;
+}
