@@ -1,11 +1,26 @@
 @import "tailwindcss";
 
-@utility shadow-hard {
-  box-shadow: var(--color-stone-900) 10px 10px;
+@utility shadow-hard-* {
+  box-shadow: var(--color-stone-900) calc(var(--spacing) * --value(number))
+    calc(var(--spacing) * --value(number));
 }
 
 @utility btn {
-  @apply ring-offset-2 ring-offset-stone-50 ring-2 ring-stone-900 bg-pink-300 px-2 flex items-center gap-2;
+  @apply border-2 border-stone-900 bg-cyan-300 rounded px-2 flex items-center gap-2 shadow-hard-0.5 transition-all;
+  &:hover {
+    @apply translate-0.5 shadow-none bg-cyan-400;
+  }
+}
+
+@utility btn-lg {
+  @apply border-2 border-stone-900 bg-cyan-300 rounded p-4 flex items-center gap-2 shadow-hard-2 transition-all;
+  &:hover {
+    @apply translate-2 shadow-none bg-cyan-400;
+  }
+}
+
+@utility card {
+  @apply bg-stone-50 rounded border-2 border-stone-900 shadow-hard-2;
 }
 
 * {

@@ -2,8 +2,11 @@ import { customElement, state } from "lit/decorators.js";
 import { html } from "lit";
 import data from "../data/data.json";
 import { LitElementNoShadow } from "./base";
+import "./timer";
 import "./map";
 import "./game";
+import { WinEvent } from "./game";
+import { Temporal } from "@js-temporal/polyfill";
 
 export type DivisionId = string;
 export type CountryId = keyof typeof data;
@@ -34,7 +37,12 @@ type AppState =
   | {
       state: "win";
       id: CountryId;
+      time: Temporal.Duration;
     };
+
+function bestTimeKey(id: CountryId): string {
+  return `best-time-${id}`;
+}
 
 @customElement("x-app")
 export class App extends LitElementNoShadow {
@@ -45,17 +53,35 @@ export class App extends LitElementNoShadow {
     switch (this.state.state) {
       case "list":
         return html`<div class="w-full min-h-full grid place-items-center p-4">
-          <div class="bg-slate-50 shadow-hard rounded">
-            <h1 class="font-bold text-xl p-4">Pick a game</h1>
+          <div class="card">
+            <div
+              class="bg-cyan-300 border-b-2 border-stone-900 px-4 py-2 flex flex-col items-center gap-2"
+            >
+              <h1 class="font-bold text-xl">Pick a game</h1>
+              <span class="text-sm">Powered by Wikidata</span>
+            </div>
             <ul>
-              ${countries.map(
-                (country) =>
-                  html`<li
-                    class="odd:bg-stone-200 flex justify-between items-center gap-4 px-4 py-2 group"
-                  >
+              ${countries.map((country) => {
+                const bestTimeString = localStorage.getItem(
+                  bestTimeKey(country.id),
+                );
+
+                const bestTimeFormatted =
+                  bestTimeString !== null
+                    ? html`<div class="text-sm">
+                        Best time:
+                        ${Temporal.Duration.from(bestTimeString).toLocaleString(
+                          undefined,
+                          { style: "digital" },
+                        )}
+                      </div>`
+                    : html`<div class="text-sm">Not yet completed</div>`;
+
+                return html`<li class="even:bg-stone-200 px-4 py-2">
+                  <div class="w-full flex justify-between items-center gap-4">
                     <span>${country.name}</span>
                     <button
-                      class="group-odd:ring-offset-stone-200 btn"
+                      class="btn"
                       @click=${() => {
                         this.state = {
                           state: "playing",
@@ -68,19 +94,35 @@ export class App extends LitElementNoShadow {
                         arrow_forward
                       </span>
                     </button>
-                  </li>`,
-              )}
+                  </div>
+                  ${bestTimeFormatted}
+                </li>`;
+              })}
             </ul>
           </div>
         </div>`;
       case "playing":
         return html`<x-game
           id=${this.state.id}
-          @win=${() => {
-            if (this.state.state == "playing") {
+          @win=${(event: CustomEvent<WinEvent>) => {
+            if (this.state.state === "playing") {
+              const key = bestTimeKey(this.state.id);
+              const bestTime = localStorage.getItem(key);
+
+              if (
+                bestTime === null ||
+                Temporal.Duration.compare(
+                  event.detail.time,
+                  Temporal.Duration.from(bestTime),
+                ) === -1
+              ) {
+                localStorage.setItem(key, event.detail.time.toString());
+              }
+
               this.state = {
                 state: "win",
                 id: this.state.id,
+                time: event.detail.time,
               };
             } else {
               throw Error("state was not playing, but there was a game");
@@ -94,10 +136,14 @@ export class App extends LitElementNoShadow {
         ></x-game>`;
       case "win":
         return html`<div class="w-full h-full grid place-items-center p-4">
-          <div
-            class="bg-slate-50 shadow-hard rounded p-4 flex flex-col gap-4 items-center"
-          >
+          <div class="card p-4 flex flex-col gap-4 items-center">
             <h1 class="text-xl font-bold">You won!</h1>
+            <span>
+              Time:
+              ${this.state.time.toLocaleString(undefined, {
+                style: "digital",
+              })}
+            </span>
             <button
               class="btn"
               @click=${() => {
