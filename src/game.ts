@@ -122,15 +122,15 @@ export class Game extends LitElementNoShadow {
         complete: ({ divisions, names }) => {
           return html` <div class="w-full min-h-full flex flex-col p-4 gap-4">
             <div class="flex flex-col justify-between">
-              <div class="flex items-stretch gap-4">
+              <div class="flex items-stretch gap-4 flex-wrap md:flex-nowrap">
                 <label
                   class="bg-stone-50 text-stone-900 shadow-hard rounded py-2 px-4 w-min flex items-center gap-4 group"
                 >
-                  <div>
+                  <div class="min-w-32">
                     <div class="text-sm">Enter a subdivision</div>
                     <input
                       type="input"
-                      class="font-bold text-stone-900 placeholder:text-stone-600 focus:outline-0"
+                      class="font-bold text-stone-900 placeholder:text-stone-600 focus:outline-0 w-full"
                       placeholder="..."
                       @change=${(event: InputEvent) => {
                         const input = event.target! as HTMLInputElement;
@@ -164,7 +164,7 @@ export class Game extends LitElementNoShadow {
                   </div>
                   <span class="material-symbols-outlined">arrow_forward</span>
                 </label>
-                <div class="w-full"></div>
+                <div class="hidden md:block w-full"></div>
                 <div
                   class="bg-stone-50 shadow-hard rounded p-4 flex items-center gap-2"
                 >

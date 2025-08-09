@@ -44,7 +44,7 @@ export class App extends LitElementNoShadow {
   render() {
     switch (this.state.state) {
       case "list":
-        return html`<div class="w-full h-full grid place-items-center">
+        return html`<div class="w-full min-h-full grid place-items-center p-4">
           <div class="bg-slate-50 shadow-hard rounded">
             <h1 class="font-bold text-xl p-4">Pick a game</h1>
             <ul>
@@ -93,7 +93,7 @@ export class App extends LitElementNoShadow {
           }}
         ></x-game>`;
       case "win":
-        return html`<div class="w-full h-full grid place-items-center">
+        return html`<div class="w-full h-full grid place-items-center p-4">
           <div
             class="bg-slate-50 shadow-hard rounded p-4 flex flex-col gap-4 items-center"
           >
