@@ -1,39 +1,60 @@
 SELECT
-	?country
+	?region
 	?division
-	?preferredDivisionLabel
-	(GROUP_CONCAT(DISTINCT ?divisionLabel; separator="$DIVIDE$") AS ?divisionLabels)
+	(SAMPLE(?preferredDivisionLabel) AS ?preferredDivisionLabel)
+  	(GROUP_CONCAT(DISTINCT ?divisionLabel; separator="$DIVIDE$") AS ?divisionLabels)
 	(SAMPLE(?geoshapeValue) AS ?geo)
 	(SAMPLE(?osmRelation) AS ?osm)
 WHERE {
-	SERVICE wikibase:label {
-		bd:serviceParam wikibase:language "en,mul".
-		?country rdfs:label ?countryLabel.
-		?division rdfs:label ?preferredDivisionLabel.
-      
-	}.
+	{
+		VALUES (?region) {
+			(wd:Q148) # China
+			(wd:Q668) # India
+			(wd:Q30) # USA
+			(wd:Q252) # Indonesia
+			(wd:Q843) # Pakistan
+			(wd:Q1033) # Nigeria
+			(wd:Q155) # Brazil
+			(wd:Q902) # Bangladesh
+			(wd:Q159) # Russia
+			(wd:Q115) # Ethiopia
+		}
 
-	# 10 most populated countries
-	VALUES (?country) {
-		(wd:Q148) # China
-		(wd:Q668) # India
-		(wd:Q30) # USA
-		(wd:Q252) # Indonesia
-		(wd:Q843) # Pakistan
-		(wd:Q1033) # Nigeria
-		(wd:Q155) # Brazil
-		(wd:Q902) # Bangladesh
-		(wd:Q159) # Russia
-		(wd:Q155) # Ethiopia
+		?region wdt:P150 ?division.
+	} UNION {
+		VALUES ?region { wd:Q2 } # World
+
+		{
+			?division wdt:P31 wd:Q3624078. # sovereign states as listed by Wikidata
+			FILTER(?division != wd:Q756617) # not the whole Kingdom of Denmark
+		} UNION {
+			?division wdt:P31 wd:Q66724388. # constituent countries of the Kingdom of Denmark
+		} UNION {
+			VALUES (?division) {
+				# (partially) unrecognised states
+				(wd:Q1246) # Kosovo
+				(wd:Q34754) # Somaliland
+			}
+		}
+	
+		# no dissolved countries
+		FILTER NOT EXISTS{ ?division wdt:P576 ?date }
 	}
-
-	?country wdt:P150 ?division.
-  
-	{ ?division rdfs:label ?divisionLabel FILTER (LANG(?divisionLabel) = "en") }
-	UNION
-	{ ?division skos:altLabel ?divisionLabel FILTER (LANG(?divisionLabel) = "en") }
 
   	OPTIONAL { ?division wdt:P402 ?osmRelation }.
 	OPTIONAL { ?division wdt:P3896 ?geoshapeValue }.
+
+	{
+		SERVICE wikibase:label {
+			bd:serviceParam wikibase:language "en,mul" .
+			?division rdfs:label ?preferredDivisionLabel .
+		}
+		BIND(?preferredDivisionLabel AS ?divisionLabel)
+	}
+	UNION
+	{
+		?division skos:altLabel ?altLabel FILTER(LANG(?altLabel) = "en")
+		BIND(?altLabel AS ?divisionLabel)
+	}
 }
-GROUP BY ?country ?division ?preferredDivisionLabel
+GROUP BY ?region ?division

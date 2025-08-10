@@ -332,6 +332,135 @@
       }
     ]
   },
+  "http://www.wikidata.org/entity/Q115": {
+    "id": "http://www.wikidata.org/entity/Q115",
+    "name": "Ethiopia",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q1070673",
+        "preferredName": "Sidama Region",
+        "names": [
+          "Sidama Region"
+        ],
+        "geoshape": "2c7bd217"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q109788993",
+        "preferredName": "Southwest Ethiopia Regional State",
+        "names": [
+          "Southwest Ethiopia Region",
+          "Southwest Ethiopia Regional State"
+        ],
+        "geoshape": "292fa205"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q3624",
+        "preferredName": "Addis Ababa",
+        "names": [
+          "Addis Ababa",
+          "Addis Abeba",
+          "Addis Ab\u00e4ba",
+          "Finfinne"
+        ],
+        "geoshape": "7f2a1ada"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q193494",
+        "preferredName": "Afar Region",
+        "names": [
+          "Afar Region"
+        ],
+        "geoshape": "c6f17f23"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q203009",
+        "preferredName": "Amhara Region",
+        "names": [
+          "Amhara",
+          "Amhara Region"
+        ],
+        "geoshape": "ba7b26f9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q207635",
+        "preferredName": "Benishangul-Gumuz Region",
+        "names": [
+          "Benishangul-Gumuz Region",
+          "Benshangul/Gumaz",
+          "Region 6"
+        ],
+        "geoshape": "908f89f4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q193486",
+        "preferredName": "Dire Dawa",
+        "names": [
+          "Dire Dawa"
+        ],
+        "geoshape": "250362c3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q207638",
+        "preferredName": "Gambela Region",
+        "names": [
+          "Gambela Peoples' Region",
+          "Gambela Region",
+          "Gambella"
+        ],
+        "geoshape": "ee6068d3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1033855",
+        "preferredName": "Harari Region",
+        "names": [
+          "Harari People's National Regional State",
+          "Harari Region"
+        ],
+        "geoshape": "03d51011"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q202107",
+        "preferredName": "Oromia Region",
+        "names": [
+          "Oromia",
+          "Oromia Federal State",
+          "Oromia Region",
+          "Oromia Regional National State",
+          "Oromiya",
+          "Oromiya Regional Government",
+          "Oromiyaa",
+          "Regional State of Oromia",
+          "Regional State of Oromiya"
+        ],
+        "geoshape": "eb0e2094"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q202800",
+        "preferredName": "Somali Region",
+        "names": [
+          "Somali",
+          "Somali Region"
+        ],
+        "geoshape": "82fd7174"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q200127",
+        "preferredName": "Tigray Region",
+        "names": [
+          "State of Tigray",
+          "Tigrai",
+          "Tigrai State",
+          "Tigray",
+          "Tigray Federal State",
+          "Tigray National Regional State",
+          "Tigray Region",
+          "Tigray Regional National State",
+          "Tigray Regional State"
+        ],
+        "geoshape": "1cb9d20b"
+      }
+    ]
+  },
   "http://www.wikidata.org/entity/Q148": {
     "id": "http://www.wikidata.org/entity/Q148",
     "name": "People's Republic of China",
@@ -2083,6 +2212,2779 @@
           "Sewast\u00fapolis"
         ],
         "geoshape": "3093ab40"
+      }
+    ]
+  },
+  "http://www.wikidata.org/entity/Q2": {
+    "id": "http://www.wikidata.org/entity/Q2",
+    "name": "Earth",
+    "divisions": [
+      {
+        "id": "http://www.wikidata.org/entity/Q889",
+        "preferredName": "Afghanistan",
+        "names": [
+          "Affghanistan",
+          "Affghanisthan",
+          "Affghaunistan",
+          "Afghania",
+          "Afghanistan",
+          "Afghanisthan",
+          "Afghaunistan",
+          "Afghaunistaun"
+        ],
+        "geoshape": "ff95b58e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q222",
+        "preferredName": "Albania",
+        "names": [
+          "AL",
+          "ALB",
+          "Albania",
+          "People's Republic of Albania",
+          "People's Socialist Republic of Albania",
+          "Republic of Albania",
+          "Republika Popullore Socialiste e Shqiperise",
+          "Republika Popullore e Shqiperise",
+          "Republika e Shqip\u00ebris\u00eb",
+          "Shqip\u00ebris\u00eb"
+        ],
+        "geoshape": "982dc85f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q262",
+        "preferredName": "Algeria",
+        "names": [
+          "ALG",
+          "Algeria",
+          "Djaza\u00efr",
+          "Dzayer",
+          "People's Democratic Republic of Algeria",
+          "dz"
+        ],
+        "geoshape": "c6346616"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q228",
+        "preferredName": "Andorra",
+        "names": [
+          "AD",
+          "AND",
+          "Andorra",
+          "Principality of Andorra",
+          "Principality of the Valleys of Andorra"
+        ],
+        "geoshape": "ab19d441"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q916",
+        "preferredName": "Angola",
+        "names": [
+          "ANG",
+          "Angola",
+          "Ngola",
+          "Republic of Angola",
+          "ao"
+        ],
+        "geoshape": "836b65e8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q781",
+        "preferredName": "Antigua and Barbuda",
+        "names": [
+          "A&B",
+          "ANT",
+          "ATG",
+          "Antigua and Barbuda",
+          "ag"
+        ],
+        "geoshape": "eb13de18"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q414",
+        "preferredName": "Argentina",
+        "names": [
+          "Argentina",
+          "Argentine Republic",
+          "Republic of Argentina",
+          "Republica Argentina"
+        ],
+        "geoshape": "980cfe3d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q399",
+        "preferredName": "Armenia",
+        "names": [
+          "AM",
+          "ARM",
+          "Armenia",
+          "Hayastan",
+          "Hayastani Hanrapetut\u2019yun",
+          "Republic of Armenia"
+        ],
+        "geoshape": "154a8f19"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q408",
+        "preferredName": "Australia",
+        "names": [
+          "AU",
+          "AUS",
+          "Aussieland",
+          "Australia",
+          "Commonwealth of Australia",
+          "Down Under",
+          "New Holland",
+          "New Hollandia",
+          "Nova Hollandia",
+          "Oz",
+          "Stralia",
+          "Straya",
+          "Stria",
+          "The Commonwealth of Australia"
+        ],
+        "geoshape": "9baf9c4d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q40",
+        "preferredName": "Austria",
+        "names": [
+          "Austria",
+          "Republic of Austria",
+          "Republik \u00d6sterreich",
+          "\u00d6sterreich"
+        ],
+        "geoshape": "279b70b1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q227",
+        "preferredName": "Azerbaijan",
+        "names": [
+          "AZE",
+          "Azerbaijan",
+          "Az\u0259rbaycan",
+          "Az\u0259rbaycan Respublikas\u0131",
+          "Republic of Azerbaijan",
+          "az"
+        ],
+        "geoshape": "ca44d2ce"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q778",
+        "preferredName": "The Bahamas",
+        "names": [
+          "BAH",
+          "Bahama Islands",
+          "Bahamas",
+          "Commonwealth of The Bahamas",
+          "Commonwealth of the Bahamas",
+          "The Bahamas",
+          "bs"
+        ],
+        "geoshape": "f51189ec"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q398",
+        "preferredName": "Bahrain",
+        "names": [
+          "BAH",
+          "Bahrain",
+          "Bahrein Islands",
+          "Dawlat al-Bahrain",
+          "ISO 3166-1:BH",
+          "Kingdom of Bahrain",
+          "Mamlakat al-Ba\u1e25rayn",
+          "bh"
+        ],
+        "geoshape": "4be11738"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q902",
+        "preferredName": "Bangladesh",
+        "names": [
+          "BAN",
+          "Bangla Desh",
+          "Bangladesh",
+          "Country of Bengal",
+          "Land of Bengal",
+          "People's Republic of Bangladesh",
+          "bd"
+        ],
+        "geoshape": "f6e7be0a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q244",
+        "preferredName": "Barbados",
+        "names": [
+          "BAR",
+          "BB",
+          "Barbadoes",
+          "Barbados",
+          "bb"
+        ],
+        "geoshape": "d700d7ec"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q184",
+        "preferredName": "Belarus",
+        "names": [
+          "BLR",
+          "Belarus",
+          "Belorussia",
+          "Bielaru\u015b",
+          "Bielorussia",
+          "Byeloruss",
+          "Byelorussia",
+          "Republic of Belarus",
+          "Respublika Belarus'",
+          "Respublika Bielaru\u015b",
+          "White Russia",
+          "White Ruthenia",
+          "by"
+        ],
+        "geoshape": "5343d6a7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q31",
+        "preferredName": "Belgium",
+        "names": [
+          "BE",
+          "BEL",
+          "Belgium",
+          "Kingdom of Belgium",
+          "be"
+        ],
+        "geoshape": "fc92fd25"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q242",
+        "preferredName": "Belize",
+        "names": [
+          "Belize",
+          "bz"
+        ],
+        "geoshape": "f1a0e105"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q962",
+        "preferredName": "Benin",
+        "names": [
+          "BEN",
+          "BJ",
+          "Benin",
+          "Dahomey",
+          "Republic of Benin"
+        ],
+        "geoshape": "7266c3cc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q917",
+        "preferredName": "Bhutan",
+        "names": [
+          "BHU",
+          "Bhutan",
+          "Kingdom of Bhutan",
+          "bt"
+        ],
+        "geoshape": "392a66f7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q750",
+        "preferredName": "Bolivia",
+        "names": [
+          "BOL",
+          "Bolivia",
+          "Bolivia (Plurinational State of)",
+          "Plurinational State of Bolivia",
+          "Republic of Bolivia",
+          "bo",
+          "bol"
+        ],
+        "geoshape": "524d13a1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q225",
+        "preferredName": "Bosnia and Herzegovina",
+        "names": [
+          "B&H",
+          "BIH",
+          "BiH",
+          "Bosnia",
+          "Bosnia & Herzegovina",
+          "Bosnia and Hercegovina",
+          "Bosnia and Herzegovina",
+          "Bosnia-Herzegovina",
+          "ba"
+        ],
+        "geoshape": "62130cc7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q963",
+        "preferredName": "Botswana",
+        "names": [
+          "BOT",
+          "Botswana",
+          "Lefatshe la Botswana",
+          "Republic of Botswana",
+          "bw"
+        ],
+        "geoshape": "9fbfd1b2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q155",
+        "preferredName": "Brazil",
+        "names": [
+          "Brasil",
+          "Brazil",
+          "Federative Republic of Brazil",
+          "br"
+        ],
+        "geoshape": "1ebd353e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q921",
+        "preferredName": "Brunei",
+        "names": [
+          "BRN",
+          "BRU",
+          "Brunei",
+          "Brunei Darussalam",
+          "Nation of Brunei, the Abode of Peace",
+          "Negara Brunei Darussalam",
+          "bn"
+        ],
+        "geoshape": "da062de4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q219",
+        "preferredName": "Bulgaria",
+        "names": [
+          "BGR",
+          "BUL",
+          "Bulgaria",
+          "Republic of Bulgaria",
+          "bg"
+        ],
+        "geoshape": "7de869a9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q965",
+        "preferredName": "Burkina Faso",
+        "names": [
+          "Burkina Faso",
+          "Republic of Burkina Faso",
+          "Republic of Upper Volta (-1984)",
+          "bf"
+        ],
+        "geoshape": "3e4d1cc0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q967",
+        "preferredName": "Burundi",
+        "names": [
+          "Burundi",
+          "Gouvernement du Burundi",
+          "Republic of Burundi",
+          "Republika y'Uburundi",
+          "bi"
+        ],
+        "geoshape": "e41a1407"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q424",
+        "preferredName": "Cambodia",
+        "names": [
+          "Cambodia",
+          "Camboya",
+          "Campuchia",
+          "KHM",
+          "Kambodzha",
+          "Kamboja",
+          "Kampuchea",
+          "Kingdom of Cambodia",
+          "kh"
+        ],
+        "geoshape": "fbc07291"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1009",
+        "preferredName": "Cameroon",
+        "names": [
+          "CAM",
+          "CM",
+          "CMR",
+          "Cameroon",
+          "Republic of Cameroon"
+        ],
+        "geoshape": "6e4e285a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q16",
+        "preferredName": "Canada",
+        "names": [
+          "CA",
+          "CAN",
+          "Canada"
+        ],
+        "geoshape": "5af99fce"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1011",
+        "preferredName": "Cape Verde",
+        "names": [
+          "CPV",
+          "CV",
+          "Cabo Verde",
+          "Cape Verde",
+          "Cape Verde Islands",
+          "Republic of Cabo Verde",
+          "Republic of Cape Verde",
+          "cv"
+        ],
+        "geoshape": "3d0bdc17"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q929",
+        "preferredName": "Central African Republic",
+        "names": [
+          "CAF",
+          "CAR",
+          "Central Africa",
+          "Central African Republic",
+          "cf"
+        ],
+        "geoshape": "b25a4478"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q657",
+        "preferredName": "Chad",
+        "names": [
+          "CHA",
+          "Chad",
+          "GUM",
+          "Republic of Chad",
+          "td"
+        ],
+        "geoshape": "0149a7cd"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q298",
+        "preferredName": "Chile",
+        "names": [
+          "CHI",
+          "CL",
+          "Chile",
+          "Republic of Chile",
+          "Rep\u00fablica de Chile",
+          "cl"
+        ],
+        "geoshape": "f98cb5e8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q148",
+        "preferredName": "People's Republic of China",
+        "names": [
+          "CHN",
+          "CN",
+          "China",
+          "China PR",
+          "Communist China",
+          "P.R.C.",
+          "PR China",
+          "PRC",
+          "People's Republic of China",
+          "RPC",
+          "Red China",
+          "The PRC",
+          "Zh\u014dnggu\u00f3",
+          "cn"
+        ],
+        "geoshape": "ed5e9e5f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q739",
+        "preferredName": "Colombia",
+        "names": [
+          "CO",
+          "COL",
+          "Colombia",
+          "Colombi\u00e1",
+          "ISO 3166-1:CO",
+          "Republic of Colombia",
+          "The Republic of Colombia"
+        ],
+        "geoshape": "5d5212fc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q970",
+        "preferredName": "Comoros",
+        "names": [
+          "COM",
+          "Comoros",
+          "Juzur al-Qamar",
+          "Juzur al-Qumur",
+          "Massiwa ya komori",
+          "Udzima wa Komori",
+          "Union des Comores",
+          "Union of the Comoros",
+          "al-Itti\u1e25\u0101d al-Qumur\u012b",
+          "km",
+          "ouvoimoja wakomori",
+          "the Comoros"
+        ],
+        "geoshape": "09138285"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q800",
+        "preferredName": "Costa Rica",
+        "names": [
+          "CRC",
+          "CRI",
+          "Costa Rica",
+          "Republic of Costa Rica",
+          "cr"
+        ],
+        "geoshape": "a2cfcc6f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q224",
+        "preferredName": "Croatia",
+        "names": [
+          "CRO",
+          "Croatia",
+          "HR",
+          "HRV",
+          "RH",
+          "Republic of Croatia"
+        ],
+        "geoshape": "351443a4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q241",
+        "preferredName": "Cuba",
+        "names": [
+          "CUB",
+          "Cuba",
+          "Republic of Cuba",
+          "cu"
+        ],
+        "geoshape": "df2986e2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q229",
+        "preferredName": "Cyprus",
+        "names": [
+          "CY",
+          "CYP",
+          "Cyprus",
+          "Greek Administration of Southern Cyprus",
+          "Greek Cypriot State",
+          "Republic of Cyprus"
+        ],
+        "geoshape": "5a96fa61"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q213",
+        "preferredName": "Czech Republic",
+        "names": [
+          "CZ",
+          "CZE",
+          "CZR",
+          "Czech Republic",
+          "Czechia"
+        ],
+        "geoshape": "522c4c3a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q974",
+        "preferredName": "Democratic Republic of the Congo",
+        "names": [
+          "COD",
+          "Congo",
+          "Congo (Kinshasa)",
+          "Congo-Kinshasa",
+          "D.R.C.",
+          "DR Congo",
+          "DRC",
+          "Dem. Rep. Congo",
+          "Dem. Republic of Congo",
+          "Dem. Republic of the Congo",
+          "Democratic Republic of Congo",
+          "Democratic Republic of the Congo",
+          "Zaire",
+          "cd"
+        ],
+        "geoshape": "57a6ca2f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q35",
+        "preferredName": "Denmark",
+        "names": [
+          "DEK",
+          "DEN",
+          "DK",
+          "DNK",
+          "Danmark",
+          "Denmark",
+          "Denmark proper",
+          "TAN",
+          "dk",
+          "metropolitan Denmark"
+        ],
+        "geoshape": "2a52df9e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q977",
+        "preferredName": "Djibouti",
+        "names": [
+          "Djibouti",
+          "Gabuuti",
+          "Jabuuti",
+          "J\u012bb\u016bt\u012b",
+          "Republic of Djibouti",
+          "dj"
+        ],
+        "geoshape": "caff3e20"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q784",
+        "preferredName": "Dominica",
+        "names": [
+          "Commonwealth of Dominica",
+          "DMA",
+          "DOM",
+          "Dominica",
+          "Island of Dominica",
+          "The Commonwealth of Dominica",
+          "Wai'tu kubuli",
+          "Wai\u2018tu kubuli",
+          "dm"
+        ],
+        "geoshape": "4fce5b24"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q786",
+        "preferredName": "Dominican Republic",
+        "names": [
+          "DO",
+          "DR",
+          "DomRep",
+          "Dominican Republic",
+          "Dominicana",
+          "RD",
+          "Republica Dominicana",
+          "Rep\u00fablica Dominicana"
+        ],
+        "geoshape": "e9c62cd1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q574",
+        "preferredName": "Timor-Leste",
+        "names": [
+          "Democratic Republic of Timor-Leste",
+          "East Timor",
+          "Timor Leste",
+          "Timor-Leste"
+        ],
+        "geoshape": "d1acfa0e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q736",
+        "preferredName": "Ecuador",
+        "names": [
+          "Ecuador",
+          "Republic of Ecuador",
+          "Republic of the Equator",
+          "The Ecuadorian State"
+        ],
+        "geoshape": "c3fcc378"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q79",
+        "preferredName": "Egypt",
+        "names": [
+          "Arab Rep. Egypt",
+          "Arab Republic of Egypt",
+          "EGY",
+          "Egypt",
+          "Misr",
+          "Rep. Egypt",
+          "Republic of Egypt",
+          "eg"
+        ],
+        "geoshape": "7bf2bf87"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q792",
+        "preferredName": "El Salvador",
+        "names": [
+          "ESA",
+          "El Salvador",
+          "Republic of El Salvador",
+          "Salvador",
+          "sv"
+        ],
+        "geoshape": "e926b19b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q983",
+        "preferredName": "Equatorial Guinea",
+        "names": [
+          "Equatorial Guinea",
+          "GEQ",
+          "Republic of Equatorial Guinea",
+          "gq"
+        ],
+        "geoshape": "78ca6261"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q986",
+        "preferredName": "Eritrea",
+        "names": [
+          "ERI",
+          "Eritrea",
+          "Ertr\u0101",
+          "IRI",
+          "Iritriy\u0101",
+          "State of Eritrea",
+          "er"
+        ],
+        "geoshape": "8c8b45ef"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q191",
+        "preferredName": "Estonia",
+        "names": [
+          "EST",
+          "Eesti",
+          "Eesti Vabariik",
+          "Estland",
+          "Estonia",
+          "Republic of Estonia",
+          "ee"
+        ],
+        "geoshape": "f9e99cb2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1050",
+        "preferredName": "Eswatini",
+        "names": [
+          "Eswatini",
+          "Kingdom of Eswatini",
+          "Kingdom of Swaziland",
+          "SWZ",
+          "Swaziland",
+          "Umbuso weSwatini",
+          "eSwatini",
+          "sz"
+        ],
+        "geoshape": "92f18a19"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q115",
+        "preferredName": "Ethiopia",
+        "names": [
+          "ETH",
+          "Ethiopia",
+          "Federal Democratic Republic of Ethiopia",
+          "et"
+        ],
+        "geoshape": "c8b52ffd"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q4628",
+        "preferredName": "Faroe Islands",
+        "names": [
+          "Atlantic/Faroe",
+          "Faer Oer",
+          "Faeroe Is",
+          "Faeroe Islands",
+          "Faeroe Isles",
+          "Faeroer",
+          "Faeroerne",
+          "Faeroes",
+          "Faeroyene",
+          "Far Oer",
+          "Fareo islands",
+          "Faroe Island",
+          "Faroe Islands",
+          "Faroe Isles",
+          "Faroer",
+          "Faroes",
+          "Faroese Islands",
+          "Farre",
+          "Farre I.",
+          "Farre Is.",
+          "Farre Isl.",
+          "Farre Islands",
+          "Far\u00f6e Islands",
+          "Foroyar",
+          "F\u00e4r\u00f6er",
+          "F\u00e6r \u00d8er",
+          "F\u00e6reyjar",
+          "F\u00e6roes",
+          "F\u00e6r\u00f8er",
+          "F\u00e6r\u00f8erne",
+          "F\u00e6r\u00f8yene",
+          "F\u00f8royar",
+          "Sheep Islands",
+          "fo",
+          "the Faeroe Islands",
+          "the Faroe Islands",
+          "\ud83c\uddeb\ud83c\uddf4"
+        ],
+        "geoshape": "40152055"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q702",
+        "preferredName": "Federated States of Micronesia",
+        "names": [
+          "FSM",
+          "Fed. Sts. Micronesia",
+          "Fed. Sts. of Micronesia",
+          "Federated States of Micronesia",
+          "Federated States of Micronesia, FSM",
+          "Micronesia",
+          "fm"
+        ],
+        "geoshape": "077822b1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q712",
+        "preferredName": "Fiji",
+        "names": [
+          "FIJ",
+          "Fiji",
+          "Fij\u012b",
+          "Fij\u012b Ga\u1e47ar\u0101jya",
+          "Matanitu Tugalala o Viti",
+          "Republic of Fiji",
+          "Republic of the Fiji Islands",
+          "Viti",
+          "fj"
+        ],
+        "geoshape": "56cf8782"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q33",
+        "preferredName": "Finland",
+        "names": [
+          "FIN",
+          "Finland",
+          "Finnia",
+          "Land of Thousand Lakes",
+          "Republic of Finland",
+          "Republiken Finland",
+          "Suomen tasavalta",
+          "Suomi",
+          "fi"
+        ],
+        "geoshape": "37167164"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q142",
+        "preferredName": "France",
+        "names": [
+          "FR",
+          "FRA",
+          "France",
+          "French Republic"
+        ],
+        "geoshape": "a27b3dd1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1000",
+        "preferredName": "Gabon",
+        "names": [
+          "GAB",
+          "Gabon",
+          "Gabonese Republic",
+          "Republique Gabonaise",
+          "R\u00e9publique Gabonaise",
+          "ga"
+        ],
+        "geoshape": "09c188ea"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q230",
+        "preferredName": "Georgia",
+        "names": [
+          "GEO",
+          "Georgia",
+          "Georgia (country)",
+          "Republic of Georgia"
+        ],
+        "geoshape": "0c942eff"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q183",
+        "preferredName": "Germany",
+        "names": [
+          "BR Deutschland",
+          "Bundesrepublik Deutschland",
+          "Deutschland",
+          "Federal Republic of Germany",
+          "Germany"
+        ],
+        "geoshape": "14f92946"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q117",
+        "preferredName": "Ghana",
+        "names": [
+          "GHA",
+          "Ghana",
+          "Republic of Ghana",
+          "gh"
+        ],
+        "geoshape": "f1e54c2a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q41",
+        "preferredName": "Greece",
+        "names": [
+          "Ellada",
+          "GRE",
+          "Greece",
+          "Greek Republic",
+          "Hellas",
+          "Hellas, Greece",
+          "Hellenic Republic",
+          "el",
+          "gr"
+        ],
+        "geoshape": "d77106f0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q223",
+        "preferredName": "Greenland",
+        "names": [
+          "Greenland",
+          "Greenlandia",
+          "Groenland",
+          "Kalaallit Nunaat"
+        ],
+        "geoshape": "5eea1459"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q769",
+        "preferredName": "Grenada",
+        "names": [
+          "GRN",
+          "Grenada",
+          "gd"
+        ],
+        "geoshape": "0b18a517"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q774",
+        "preferredName": "Guatemala",
+        "names": [
+          "GUA",
+          "Guatemala",
+          "Republic of Guatemala",
+          "gt"
+        ],
+        "geoshape": "9ac58555"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1007",
+        "preferredName": "Guinea-Bissau",
+        "names": [
+          "GBS",
+          "Guinea-Bissau",
+          "Republic of Guinea-Bissau",
+          "gw"
+        ],
+        "geoshape": "4d6b3a4c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1006",
+        "preferredName": "Guinea",
+        "names": [
+          "GUI",
+          "Guinea",
+          "Guinea-Conakry",
+          "Republic of Guinea",
+          "gn"
+        ],
+        "geoshape": "176f2096"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q734",
+        "preferredName": "Guyana",
+        "names": [
+          "Co-operative Republic of Guyana",
+          "GUY",
+          "Guyana",
+          "Republic of Guyana",
+          "gy"
+        ],
+        "geoshape": "1ca4f310"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q790",
+        "preferredName": "Haiti",
+        "names": [
+          "Ayiti",
+          "HAI",
+          "HT",
+          "Haiti",
+          "Haitian Republic",
+          "Hayti",
+          "Republic of Haiti",
+          "ht"
+        ],
+        "geoshape": "ec7d7fe7"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q783",
+        "preferredName": "Honduras",
+        "names": [
+          "HN",
+          "HND",
+          "HON",
+          "Honduran Republic",
+          "Honduras",
+          "Republic of Honduras",
+          "hn"
+        ],
+        "geoshape": "bd9525d5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q28",
+        "preferredName": "Hungary",
+        "names": [
+          "Hungary",
+          "Magyarorsz\u00e1g"
+        ],
+        "geoshape": "5d06aa62"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q189",
+        "preferredName": "Iceland",
+        "names": [
+          "ISL",
+          "Iceland",
+          "Icelandic republic",
+          "Isl.",
+          "Republic of Iceland",
+          "Ysland"
+        ],
+        "geoshape": "98526b30"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q668",
+        "preferredName": "India",
+        "names": [
+          "Bharat",
+          "Bharat Ganarajya",
+          "Bharata",
+          "Bharatvarsh",
+          "Hindoostan",
+          "Hindustan",
+          "IN",
+          "IND",
+          "India",
+          "Indostan",
+          "Republic of India"
+        ],
+        "geoshape": "be6721e5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q252",
+        "preferredName": "Indonesia",
+        "names": [
+          "ID",
+          "IDN",
+          "INA",
+          "Indonesia",
+          "Republic of Indonesia",
+          "id"
+        ],
+        "geoshape": "30cea7a1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q794",
+        "preferredName": "Iran",
+        "names": [
+          "IRI",
+          "IRN",
+          "Iran",
+          "Islamic Rep. Iran",
+          "Islamic Republic of Iran",
+          "Persia",
+          "ir"
+        ],
+        "geoshape": "38e993a2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q796",
+        "preferredName": "Iraq",
+        "names": [
+          "IRQ",
+          "Iraq",
+          "Republic of Iraq",
+          "iq"
+        ],
+        "geoshape": "829cb91f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q27",
+        "preferredName": "Ireland",
+        "names": [
+          "Hibernia",
+          "Ireland",
+          "Irish Republic",
+          "Republic of Ireland",
+          "Southern Ireland",
+          "\u00c9ire"
+        ],
+        "geoshape": "2928635a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q801",
+        "preferredName": "Israel",
+        "names": [
+          "IL",
+          "ISR",
+          "Israel",
+          "State of Israel",
+          "Yisrael",
+          "il"
+        ],
+        "geoshape": "23235422"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q38",
+        "preferredName": "Italy",
+        "names": [
+          "IT",
+          "ITA",
+          "Italia",
+          "Italian Republic",
+          "Italy",
+          "Repubblica Italiana",
+          "Republic of Italy"
+        ],
+        "geoshape": "b5598f6d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1008",
+        "preferredName": "Ivory Coast",
+        "names": [
+          "CIV",
+          "Cote Ivoire",
+          "Cote d'Ivoire",
+          "Cote d'lvoire",
+          "Cote-d'Ivoire",
+          "C\u00f4te d'Ivoire",
+          "C\u00f4te d\u2019Ivoire",
+          "C\u00f4te-d'Ivoire",
+          "Ivory Coast",
+          "Republic of Cote d'Ivoire",
+          "Republic of C\u00f4te d'Ivoire",
+          "Republic of Ivory Coast",
+          "Republic of the Ivory Coast",
+          "The Ivory Coast",
+          "ci"
+        ],
+        "geoshape": "9937e983"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q766",
+        "preferredName": "Jamaica",
+        "names": [
+          "Commonwealth of Jamaica",
+          "JA",
+          "JAM",
+          "JM",
+          "Jamaica"
+        ],
+        "geoshape": "977df240"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q17",
+        "preferredName": "Japan",
+        "names": [
+          "Iapan",
+          "Iapon",
+          "JA",
+          "JAP",
+          "JP",
+          "JPN",
+          "Ja",
+          "Jap",
+          "Japan",
+          "Land of Rising Sun",
+          "Land of the Rising Sun",
+          "Nihon",
+          "Nihon-koku",
+          "Nippon",
+          "Nippon-koku",
+          "State of Japan",
+          "jp"
+        ],
+        "geoshape": "8f0df86a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q810",
+        "preferredName": "Jordan",
+        "names": [
+          "Giordania",
+          "HKJ",
+          "Hashemite Kingdom of Jordan",
+          "ISO 3166-1:JO",
+          "Jordan",
+          "Kingdom of Jordan",
+          "State of Jordan",
+          "Yarden"
+        ],
+        "geoshape": "19331bec"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q232",
+        "preferredName": "Kazakhstan",
+        "names": [
+          "KAZ",
+          "Kazakhstan",
+          "Qazaqstan",
+          "Republic of Kazakhstan",
+          "Republic of Qazaqstan",
+          "kz"
+        ],
+        "geoshape": "ce903ff3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q114",
+        "preferredName": "Kenya",
+        "names": [
+          "KE",
+          "KEN",
+          "Kenya",
+          "Republic of Kenya",
+          "ke"
+        ],
+        "geoshape": "0ee49357"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q710",
+        "preferredName": "Kiribati",
+        "names": [
+          "KIR",
+          "Kiribati",
+          "Republic of Kiribati",
+          "ki"
+        ],
+        "geoshape": "04eb9e43"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1246",
+        "preferredName": "Kosovo",
+        "names": [
+          "KOS",
+          "KV",
+          "Kosova",
+          "Kosovo",
+          "RKS",
+          "Republic of Kosovo",
+          "XK",
+          "XKX"
+        ],
+        "geoshape": "8ac0f768"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q817",
+        "preferredName": "Kuwait",
+        "names": [
+          "KUW",
+          "Kuwait",
+          "State of Kuwait",
+          "kw"
+        ],
+        "geoshape": "ca3d79c0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q813",
+        "preferredName": "Kyrgyzstan",
+        "names": [
+          "KGZ",
+          "Kyrgyz Republic",
+          "Kyrgyzstan",
+          "kg"
+        ],
+        "geoshape": "27b709a4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q819",
+        "preferredName": "Laos",
+        "names": [
+          "LAO",
+          "Lao PDR",
+          "Lao People's Democratic Republic",
+          "Laos",
+          "la"
+        ],
+        "geoshape": "e0571fdc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q211",
+        "preferredName": "Latvia",
+        "names": [
+          "LAT",
+          "LVA",
+          "Latveja",
+          "Latvejas Republika",
+          "Latvia",
+          "Latvian Republic",
+          "Latvija",
+          "Latvijas Republika",
+          "Le\u0163m\u043e\u0304",
+          "Le\u0163m\u043e\u0304 Vab\u0101m\u043e\u0304",
+          "Republic of Latvia",
+          "lv"
+        ],
+        "geoshape": "72ea2c67"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q822",
+        "preferredName": "Lebanon",
+        "names": [
+          "ISO 3166-1:LB",
+          "LBN",
+          "Lebanese Republic",
+          "Lebanon",
+          "Lubnan",
+          "Republic of Lebanon",
+          "State of Lebanon",
+          "lb"
+        ],
+        "geoshape": "d3e7c5e5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1013",
+        "preferredName": "Lesotho",
+        "names": [
+          "Kingdom of Lesotho",
+          "LES",
+          "Lesotho",
+          "The Mountain Kingdom",
+          "ls"
+        ],
+        "geoshape": "8ad197fd"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1014",
+        "preferredName": "Liberia",
+        "names": [
+          "LBR",
+          "Liber",
+          "Liberia",
+          "Republic of Liberia",
+          "lr"
+        ],
+        "geoshape": "a60cb8fc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1016",
+        "preferredName": "Libya",
+        "names": [
+          "LBA",
+          "Libya",
+          "State of Libya",
+          "ly"
+        ],
+        "geoshape": "683efca1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q347",
+        "preferredName": "Liechtenstein",
+        "names": [
+          "FL",
+          "LI",
+          "LIE",
+          "Liechtenstein",
+          "Principality of Liechtenstein",
+          "li"
+        ],
+        "geoshape": "3dfee7ac"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q37",
+        "preferredName": "Lithuania",
+        "names": [
+          "LT",
+          "LTU",
+          "Lietuva",
+          "Lietuvos Respublika",
+          "Lithuania",
+          "Republic of Lithuania"
+        ],
+        "geoshape": "3f3bb361"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q32",
+        "preferredName": "Luxembourg",
+        "names": [
+          "Grand Duchy of Luxembourg",
+          "LU",
+          "LUX",
+          "Luxembourg",
+          "Luxemburg"
+        ],
+        "geoshape": "f3c31068"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q711",
+        "preferredName": "Mongolia",
+        "names": [
+          "Mongol State",
+          "Mongolia",
+          "State of Mongolia"
+        ],
+        "geoshape": "7acd32e4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q221",
+        "preferredName": "North Macedonia",
+        "names": [
+          "FYR Macedonia",
+          "FYROM",
+          "Former Yugoslav Republic of Macedonia",
+          "MKD",
+          "Macedonia",
+          "NM",
+          "North Macedonia",
+          "Republic of Macedonia",
+          "Republic of North Macedonia"
+        ],
+        "geoshape": "368dcfa1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1019",
+        "preferredName": "Madagascar",
+        "names": [
+          "MAD",
+          "MDG",
+          "Madagascar",
+          "Malagascar",
+          "Malagaskar",
+          "Republic of Madagascar",
+          "mg"
+        ],
+        "geoshape": "a3f9e9ce"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1020",
+        "preferredName": "Malawi",
+        "names": [
+          "MAW",
+          "Malawi",
+          "Republic of Malawi",
+          "mw"
+        ],
+        "geoshape": "8ad0ddc8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q833",
+        "preferredName": "Malaysia",
+        "names": [
+          "Federation of Malaysia",
+          "MAS",
+          "Malaysia",
+          "Malaysia Federation"
+        ],
+        "geoshape": "68063dbc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q826",
+        "preferredName": "Maldives",
+        "names": [
+          "MDV",
+          "Maldives",
+          "Republic of Maldives",
+          "mv"
+        ],
+        "geoshape": "80ce5d1e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q912",
+        "preferredName": "Mali",
+        "names": [
+          "MLI",
+          "Mali",
+          "Republic of Mali",
+          "ml"
+        ],
+        "geoshape": "c9982306"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q233",
+        "preferredName": "Malta",
+        "names": [
+          "MLT",
+          "MT",
+          "Malta",
+          "Republic of Malta"
+        ],
+        "geoshape": "e1367b2f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q709",
+        "preferredName": "Marshall Islands",
+        "names": [
+          "MHL",
+          "Marshall Islands",
+          "Republic of the Marshall Islands",
+          "mh"
+        ],
+        "geoshape": "de27a43b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1025",
+        "preferredName": "Mauritania",
+        "names": [
+          "Agawej",
+          "Gannaar",
+          "G\u00e0nnaar",
+          "Islamic Republic of Mauritania",
+          "MTN",
+          "Mauretania",
+          "Mauritania",
+          "Moritani",
+          "Muritanya",
+          "Murutaane",
+          "mr"
+        ],
+        "geoshape": "745786e1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1027",
+        "preferredName": "Mauritius",
+        "names": [
+          "MRI",
+          "MU",
+          "Maurice",
+          "Mauritius",
+          "Moris",
+          "Republic of Mauritius"
+        ],
+        "geoshape": "11939d15"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q96",
+        "preferredName": "Mexico",
+        "names": [
+          "MEX",
+          "MX",
+          "MXN",
+          "Mexican Republic",
+          "Mexican United States",
+          "Mexico",
+          "US of M",
+          "United Mexican States",
+          "mx"
+        ],
+        "geoshape": "ea4e04b9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q217",
+        "preferredName": "Moldova",
+        "names": [
+          "MD",
+          "MDA",
+          "Moldavia",
+          "Moldova",
+          "Republic of Moldova",
+          "Republica Moldova"
+        ],
+        "geoshape": "23dacf8d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q235",
+        "preferredName": "Monaco",
+        "names": [
+          "Fort-Hercule",
+          "MON",
+          "Monaco",
+          "M\u00f9negu",
+          "Principality and Diocese of Monaco",
+          "Principality of Monaco",
+          "Principato di Monaco",
+          "Principatu de Mu\u030dnegu",
+          "Principaut\u00e9 de Monaco",
+          "Prin\u00e7ipatu de M\u00f9negu",
+          "mc"
+        ],
+        "geoshape": "2e382409"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q236",
+        "preferredName": "Montenegro",
+        "names": [
+          "Crna Gora",
+          "MNE",
+          "Montenegro",
+          "me"
+        ],
+        "geoshape": "44856b38"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1028",
+        "preferredName": "Morocco",
+        "names": [
+          "Kingdom of Morocco",
+          "Lma\u0121rib",
+          "MAR",
+          "Maroc",
+          "Marocco",
+          "Morocco",
+          "al-Ma\u0121rib",
+          "ma"
+        ],
+        "geoshape": "932c36e0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1029",
+        "preferredName": "Mozambique",
+        "names": [
+          "MOZ",
+          "MZ",
+          "Mozambique",
+          "Mo\u00e7ambique",
+          "Republic of Mozambique",
+          "Rep\u00fablica de Mo\u00e7ambique",
+          "mz"
+        ],
+        "geoshape": "f314435c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q836",
+        "preferredName": "Myanmar",
+        "names": [
+          "BUR",
+          "Burma",
+          "MM",
+          "MYA",
+          "Myanmar",
+          "Republic of the Union of Myanmar",
+          "Union of Burma"
+        ],
+        "geoshape": "38311c9f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1030",
+        "preferredName": "Namibia",
+        "names": [
+          "NAM",
+          "Namibia",
+          "Republic of Namibia",
+          "na"
+        ],
+        "geoshape": "649033bd"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q697",
+        "preferredName": "Nauru",
+        "names": [
+          "Naoero",
+          "Nauru",
+          "Pleasant Island",
+          "Republic of Nauru",
+          "nr"
+        ],
+        "geoshape": "3dd934da"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q29999",
+        "preferredName": "Kingdom of the Netherlands",
+        "names": [
+          "Kingdom of the Netherlands",
+          "NL",
+          "Nederlanden",
+          "Netherlands",
+          "the Netherlands"
+        ],
+        "geoshape": "7967508b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q837",
+        "preferredName": "Nepal",
+        "names": [
+          "Bal-bo",
+          "Bal-po'i yul",
+          "Bal-yul",
+          "Balbo",
+          "Balpo",
+          "Balpo-yul",
+          "Federal Democratic Republic of Nepal",
+          "Naipala",
+          "Naip\u00e1l",
+          "Naip\u00e1la",
+          "Ne-pel",
+          "Necbal",
+          "Nehpal",
+          "Nei-pal",
+          "Nekbal",
+          "Nekpal",
+          "Nepal",
+          "Nepall",
+          "Nepaul",
+          "Nep\u00e1l",
+          "Nercerri",
+          "Ni-po-lo",
+          "Ni-po-louo",
+          "Niepal",
+          "Nipal",
+          "N\u00e9paal",
+          "N\u00e9p\u00e1l",
+          "Pa-eul-pou",
+          "Pa-le-pou",
+          "Pa-lo-pou",
+          "Pai-pou",
+          "Palpa",
+          "Palpou",
+          "Pa\u00ef-pou"
+        ],
+        "geoshape": "a3a70b8b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q664",
+        "preferredName": "New Zealand",
+        "names": [
+          "Aotearoa",
+          "Aotearoa New Zealand",
+          "Dominion of New Zealand",
+          "NZ",
+          "NZL",
+          "New Zealand",
+          "New Zeeland",
+          "Nova Zelandia",
+          "Zeelandia Nova",
+          "Zelandia Nova",
+          "nz"
+        ],
+        "geoshape": "f63a56fd"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q811",
+        "preferredName": "Nicaragua",
+        "names": [
+          "NCA",
+          "NI",
+          "NIC",
+          "Nicaragua",
+          "Republic of Nicaragua",
+          "ni"
+        ],
+        "geoshape": "f754940a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1032",
+        "preferredName": "Niger",
+        "names": [
+          "Niger",
+          "Republic Niger",
+          "Republic of Niger",
+          "Republic of the Niger",
+          "The Niger",
+          "ne"
+        ],
+        "geoshape": "0b121db5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1033",
+        "preferredName": "Nigeria",
+        "names": [
+          "FRN",
+          "Federal Republic of Nigeria",
+          "NG",
+          "NGA",
+          "NGR",
+          "Naija",
+          "Nigeria"
+        ],
+        "geoshape": "a23cb26a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q423",
+        "preferredName": "North Korea",
+        "names": [
+          "DPR Korea",
+          "DPRK",
+          "Democratic People's Republic of Korea",
+          "N. Korea",
+          "North Korea",
+          "PRK",
+          "kp"
+        ],
+        "geoshape": "2ca54f6e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q20",
+        "preferredName": "Norway",
+        "names": [
+          "Kingdom of Norway",
+          "Norway"
+        ],
+        "geoshape": "896c5fb8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q842",
+        "preferredName": "Oman",
+        "names": [
+          "Oman",
+          "Sultanate of Oman",
+          "Uman",
+          "om",
+          "omn"
+        ],
+        "geoshape": "9589ff24"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q843",
+        "preferredName": "Pakistan",
+        "names": [
+          "Islamic Republic of Pakistan",
+          "PAK",
+          "Pakistan",
+          "Republic of Pakistan",
+          "pk"
+        ],
+        "geoshape": "7eccc68c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q695",
+        "preferredName": "Palau",
+        "names": [
+          "Belau",
+          "Palau",
+          "Peeloo",
+          "Pelew",
+          "Pelew islands",
+          "Pellew",
+          "Republic of Belau",
+          "Republic of Palau",
+          "pw"
+        ],
+        "geoshape": "41a6b8e8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q219060",
+        "preferredName": "State of Palestine",
+        "names": [
+          "PSE",
+          "Palestine",
+          "Palestinian Authority",
+          "Palestinian National Authority",
+          "State of Palestine"
+        ],
+        "geoshape": "7b2c3168"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q804",
+        "preferredName": "Panama",
+        "names": [
+          "Panama",
+          "Republic of Panama",
+          "pa"
+        ],
+        "geoshape": "66d1bf0e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q691",
+        "preferredName": "Papua New Guinea",
+        "names": [
+          "Independent State of Papua New Guinea",
+          "PNG",
+          "Papua New Guinea",
+          "pg"
+        ],
+        "geoshape": "f1e6bee6"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q733",
+        "preferredName": "Paraguay",
+        "names": [
+          "Heart of South America",
+          "Paraguay",
+          "Republic of Paraguay",
+          "pry",
+          "py"
+        ],
+        "geoshape": "02511081"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q419",
+        "preferredName": "Peru",
+        "names": [
+          "Peru",
+          "Republic of Peru",
+          "Republica del Peru",
+          "Rep\u00fablica del Per\u00fa",
+          "pe",
+          "per"
+        ],
+        "geoshape": "686595c5"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q928",
+        "preferredName": "Philippines",
+        "names": [
+          "PHI",
+          "Philippine Islands",
+          "Philippines",
+          "RP",
+          "Republic of the Philippines",
+          "The Philippines",
+          "ph"
+        ],
+        "geoshape": "d8a79137"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q36",
+        "preferredName": "Poland",
+        "names": [
+          "Poland",
+          "Republic of Poland"
+        ],
+        "geoshape": "f4077671"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q45",
+        "preferredName": "Portugal",
+        "names": [
+          "POR",
+          "PRT",
+          "Portugal",
+          "Portuguese Republic"
+        ],
+        "geoshape": "d7b1f5b2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q846",
+        "preferredName": "Qatar",
+        "names": [
+          "Qatar",
+          "State of Qatar",
+          "qa",
+          "qat"
+        ],
+        "geoshape": "a544efa3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q971",
+        "preferredName": "Republic of the Congo",
+        "names": [
+          "CGO",
+          "Congo",
+          "Congo (Brazzaville)",
+          "Congo Republic",
+          "Congo-Brazzaville",
+          "Rep. Congo",
+          "Republic of Congo",
+          "Republic of the Congo",
+          "Republique du Congo",
+          "R\u00e9publique du Congo",
+          "cg"
+        ],
+        "geoshape": "2ede63f9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q218",
+        "preferredName": "Romania",
+        "names": [
+          "ROU",
+          "Romania",
+          "Rom\u00e2nia",
+          "Roumania",
+          "Rumania",
+          "ro"
+        ],
+        "geoshape": "c8d81518"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q159",
+        "preferredName": "Russia",
+        "names": [
+          "Federation of Russia",
+          "RF",
+          "Russia",
+          "Russian Federation"
+        ],
+        "geoshape": "33e51efa"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1037",
+        "preferredName": "Rwanda",
+        "names": [
+          "RW",
+          "Republic of Rwanda",
+          "Rwanda",
+          "The Land of a Thousand Hills",
+          "rw"
+        ],
+        "geoshape": "4a7db342"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q763",
+        "preferredName": "Saint Kitts and Nevis",
+        "names": [
+          "Federation of Saint Christopher and Nevis",
+          "Federation of Saint Kitts and Nevis",
+          "Kitts & Nevis",
+          "Kitts and Nevis",
+          "SKN",
+          "Saint Christopher and Nevis",
+          "Saint Kitts and Nevis",
+          "St Kitts & Nevis",
+          "St Kitts and Nevis",
+          "St. Kitts & Nevis",
+          "St. Kitts and Nevis"
+        ],
+        "geoshape": "d49a4a84"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q760",
+        "preferredName": "Saint Lucia",
+        "names": [
+          "Hewanorra",
+          "Iyonola",
+          "Saint Lucia",
+          "St Lucia",
+          "St. Lucia",
+          "lc",
+          "lca"
+        ],
+        "geoshape": "e52426c4"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q757",
+        "preferredName": "Saint Vincent and the Grenadines",
+        "names": [
+          "Saint Vincent",
+          "Saint Vincent and the Grenadines",
+          "St Vincent",
+          "St Vincent and the Grenadines",
+          "St. Vincent",
+          "St. Vincent and the Grenadines",
+          "vc",
+          "vct"
+        ],
+        "geoshape": "65352e23"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q683",
+        "preferredName": "Samoa",
+        "names": [
+          "Independent State of Samoa",
+          "SAM",
+          "Samoa",
+          "Western Samoa",
+          "ws"
+        ],
+        "geoshape": "7692c391"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q238",
+        "preferredName": "San Marino",
+        "names": [
+          "Most Serene Republic of San Marino",
+          "SMR",
+          "San Marino",
+          "sm"
+        ],
+        "geoshape": "4b19c6b9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1039",
+        "preferredName": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "names": [
+          "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+          "STP",
+          "Sao Tome & Principe",
+          "Sao Tome and Principe",
+          "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+          "S\u00e3o Tom\u00e9 og Pr\u00edncipe",
+          "st"
+        ],
+        "geoshape": "62b5e661"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q851",
+        "preferredName": "Saudi Arabia",
+        "names": [
+          "Arabia",
+          "KSA",
+          "Kingdom of Saudi Arabia",
+          "Saudi",
+          "Saudi Arab Kingdom",
+          "Saudi Arabia",
+          "Saudi Arabian Kingdom",
+          "Saudi Kingdom of Arabia",
+          "Saudia",
+          "sa"
+        ],
+        "geoshape": "6aa87f60"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1041",
+        "preferredName": "Senegal",
+        "names": [
+          "Republic of Senegal",
+          "SEN",
+          "SN",
+          "Senegal",
+          "sn"
+        ],
+        "geoshape": "de73aa0f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q403",
+        "preferredName": "Serbia",
+        "names": [
+          "RS",
+          "Republic of Serbia",
+          "Republika Srbija",
+          "SRB",
+          "Serbia",
+          "Srbija"
+        ],
+        "geoshape": "4ed7bfce"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1042",
+        "preferredName": "Seychelles",
+        "names": [
+          "Republic of Seychelles",
+          "SEY",
+          "SYC",
+          "Seychelles",
+          "sc"
+        ],
+        "geoshape": "2789c29b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1044",
+        "preferredName": "Sierra Leone",
+        "names": [
+          "Republic of Sierra Leone",
+          "SLE",
+          "Sierra Leone",
+          "sl"
+        ],
+        "geoshape": "170f9750"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q334",
+        "preferredName": "Singapore",
+        "names": [
+          "Garden City",
+          "Lion City",
+          "Republic of Singapore",
+          "S'pore",
+          "SG",
+          "SGP",
+          "SIN",
+          "Singapore",
+          "Singapore City",
+          "sg"
+        ],
+        "geoshape": "38429008"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q214",
+        "preferredName": "Slovakia",
+        "names": [
+          "SK",
+          "SVK",
+          "Slovak Republic",
+          "Slovakia"
+        ],
+        "geoshape": "dd833ba8"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q215",
+        "preferredName": "Slovenia",
+        "names": [
+          "Republic of Slovenia",
+          "Republika Slovenija",
+          "SLO",
+          "Slovenia",
+          "Slovenija",
+          "si",
+          "slo",
+          "svn"
+        ],
+        "geoshape": "14e652f3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q685",
+        "preferredName": "Solomon Islands",
+        "names": [
+          "SOL",
+          "Solomon Islands",
+          "sb"
+        ],
+        "geoshape": "10c907eb"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1045",
+        "preferredName": "Somalia",
+        "names": [
+          "Federal Republic of Somalia",
+          "Somalia"
+        ],
+        "geoshape": "19975719"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q34754",
+        "preferredName": "Somaliland",
+        "names": [
+          "Republic of Somaliland",
+          "Somaliland"
+        ],
+        "geoshape": "1d57ed85"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q258",
+        "preferredName": "South Africa",
+        "names": [
+          "R.S.A.",
+          "RSA",
+          "Republic of South Africa",
+          "SA",
+          "South Africa",
+          "zaf"
+        ],
+        "geoshape": "64dd5a5d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q884",
+        "preferredName": "South Korea",
+        "names": [
+          "Choson",
+          "Daehan Minguk",
+          "Daehanminguk",
+          "Hanguk",
+          "KOR",
+          "Korea (South)",
+          "Korea Republic",
+          "ROK",
+          "Rep. Korea",
+          "Republic of Korea",
+          "S. Korea",
+          "SK",
+          "Silla",
+          "South Korea",
+          "kr",
+          "\ud83c\uddf0\ud83c\uddf7"
+        ],
+        "geoshape": "3b68cf1b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q958",
+        "preferredName": "South Sudan",
+        "names": [
+          "Republic of South Sudan",
+          "SSD",
+          "South Sudan",
+          "Southern Sudan",
+          "ss"
+        ],
+        "geoshape": "9e9c6b04"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q29",
+        "preferredName": "Spain",
+        "names": [
+          "Kingdom of Spain",
+          "Spain"
+        ],
+        "geoshape": "d8feb883"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q854",
+        "preferredName": "Sri Lanka",
+        "names": [
+          "Ceylan",
+          "Ceylon",
+          "Democratic Socialist Republic of Sri Lanka",
+          "Lanka, Sri",
+          "SRI",
+          "Serendib",
+          "Sri Lanka",
+          "Srilanka",
+          "Taprobane",
+          "ce",
+          "lk",
+          "lke",
+          "sri"
+        ],
+        "geoshape": "ff6b17fb"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1049",
+        "preferredName": "Sudan",
+        "names": [
+          "North Sudan",
+          "Republic of Sudan",
+          "Republic of the Sudan",
+          "SUD",
+          "Soudan",
+          "Sudan",
+          "al-Sudan",
+          "as-Sudan",
+          "as-S\u016bd\u0101n",
+          "sd",
+          "the Sudan"
+        ],
+        "geoshape": "cf41b36c"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q730",
+        "preferredName": "Suriname",
+        "names": [
+          "Dutch Guiana",
+          "Republic of Surinam",
+          "Republic of Suriname",
+          "SUR",
+          "Surinam",
+          "Suriname",
+          "Surrinam",
+          "sr"
+        ],
+        "geoshape": "4941dc4d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q34",
+        "preferredName": "Sweden",
+        "names": [
+          "Kingdom of Sweden",
+          "SWE",
+          "Sweden",
+          "Swedish Kingdom",
+          "se"
+        ],
+        "geoshape": "96fba85b"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q39",
+        "preferredName": "Switzerland",
+        "names": [
+          "Confoederatio Helvetica",
+          "Swiss",
+          "Swiss Confederation",
+          "Switzerland"
+        ],
+        "geoshape": "e5b7f473"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q858",
+        "preferredName": "Syria",
+        "names": [
+          "ISO 3166-1:SY",
+          "SYR",
+          "Surya",
+          "Syria",
+          "Syrian Arab Republic",
+          "sy"
+        ],
+        "geoshape": "0ead8f36"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q865",
+        "preferredName": "Taiwan",
+        "names": [
+          "China, Republic",
+          "Chinese Taipei",
+          "Chunghwa Minkuo",
+          "Chunghwa Minkwo",
+          "D\u00e0i-u\u0103ng",
+          "Formosa",
+          "Free China",
+          "Ilaod",
+          "Lawlaw",
+          "Nanasian",
+          "Nationalist China",
+          "ROC",
+          "Republic of China",
+          "Republic of China (Taiwan)",
+          "TPE",
+          "TW",
+          "TWN",
+          "Tai-waan",
+          "Taioan",
+          "Taivang",
+          "Taivang\u0289",
+          "Taiwaan",
+          "Taiwan",
+          "Taiwan ROC",
+          "Taywan",
+          "Taywang",
+          "Teywan",
+          "The ROC",
+          "Thoi-van",
+          "Toi\u02c7 Van\u02c7",
+          "T\u00e2i-o\u00e2n",
+          "T\u00e2i-u\u00e2n"
+        ],
+        "geoshape": "68ab63bf"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q863",
+        "preferredName": "Tajikistan",
+        "names": [
+          "Republic of Tajikistan",
+          "TJK",
+          "Tajikistan",
+          "tj"
+        ],
+        "geoshape": "62625fa9"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q924",
+        "preferredName": "Tanzania",
+        "names": [
+          "Tanzania",
+          "Tanzania, United Republic of",
+          "United Republic of Tanganyika and Zanzibar",
+          "United Republic of Tanzania",
+          "tz",
+          "tza"
+        ],
+        "geoshape": "188287e0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q869",
+        "preferredName": "Thailand",
+        "names": [
+          "Kingdom of Thailand",
+          "Land of Smiles",
+          "Siam",
+          "THA",
+          "Thailand",
+          "th"
+        ],
+        "geoshape": "214d61ca"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1005",
+        "preferredName": "The Gambia",
+        "names": [
+          "GAM",
+          "GM",
+          "Gambia",
+          "Islamic Republic of the Gambia",
+          "Republic of the Gambia",
+          "The Gambia"
+        ],
+        "geoshape": "2e3319f0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q945",
+        "preferredName": "Togo",
+        "names": [
+          "TOG",
+          "Togo",
+          "Togolese Republic",
+          "tg"
+        ],
+        "geoshape": "19a0eaab"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q678",
+        "preferredName": "Tonga",
+        "names": [
+          "Friendly Islands",
+          "Kingdom of Tonga",
+          "TGA",
+          "Tonga",
+          "Tonga Islands",
+          "to"
+        ],
+        "geoshape": "998a70fc"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q754",
+        "preferredName": "Trinidad and Tobago",
+        "names": [
+          "Republic of Trinidad and Tobago",
+          "TRI",
+          "TTO",
+          "Trinidad & Tobago",
+          "Trinidad and Tobago",
+          "tt"
+        ],
+        "geoshape": "c0fe604d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q948",
+        "preferredName": "Tunisia",
+        "names": [
+          "Republic of Tunisia",
+          "TUN",
+          "Tunisia",
+          "Tunisian Republic",
+          "tn"
+        ],
+        "geoshape": "d082f82e"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q43",
+        "preferredName": "Turkey",
+        "names": [
+          "Republic of Turkey",
+          "Republic of T\u00fcrkiye",
+          "TR",
+          "TUR",
+          "Turkey",
+          "T\u00fcrkiye"
+        ],
+        "geoshape": "f7d07f49"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q874",
+        "preferredName": "Turkmenistan",
+        "names": [
+          "TKM",
+          "Turkmenia",
+          "Turkmenistan",
+          "tm"
+        ],
+        "geoshape": "1c317d08"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q672",
+        "preferredName": "Tuvalu",
+        "names": [
+          "Ellice Islands",
+          "TUV",
+          "Tuvalu",
+          "tv"
+        ],
+        "geoshape": "c875ec3d"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1036",
+        "preferredName": "Uganda",
+        "names": [
+          "+256",
+          "Ouganda",
+          "Pearl of Africa",
+          "Republic of Uganda",
+          "The Republic of Uganda",
+          "UG",
+          "UGA",
+          "Uganda",
+          "Ugandah",
+          "ug"
+        ],
+        "geoshape": "c5810613"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q212",
+        "preferredName": "Ukraine",
+        "names": [
+          "UA",
+          "UKR",
+          "Ukr.",
+          "Ukraina",
+          "Ukraine",
+          "Ukrainia",
+          "Ukra\u00efna"
+        ],
+        "geoshape": "9f985074"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q878",
+        "preferredName": "United Arab Emirates",
+        "names": [
+          "ARE",
+          "Emirates",
+          "U.A.E.",
+          "UAE",
+          "United Arab Emirates",
+          "ae",
+          "the Emirates",
+          "the U.A.E.",
+          "the UAE",
+          "the United Arab Emirates"
+        ],
+        "geoshape": "6be18b33"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q145",
+        "preferredName": "United Kingdom",
+        "names": [
+          "Britain",
+          "G B",
+          "G B R",
+          "G. B.",
+          "G.B.",
+          "G.B.R.",
+          "Great Britain",
+          "Great Britain and Northern Ireland",
+          "The UK",
+          "The United Kingdom of Great Britain and Northern Ireland",
+          "U K",
+          "U. K.",
+          "U.K.",
+          "UK",
+          "United Kingdom",
+          "United Kingdom of Great Britain and Northern Ireland"
+        ],
+        "geoshape": "7de2d24f"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q30",
+        "preferredName": "United States",
+        "names": [
+          "America",
+          "Merica",
+          "Murica",
+          "U. S.",
+          "U. S. A.",
+          "U.S.",
+          "U.S. of America",
+          "U.S.A.",
+          "US",
+          "US of A",
+          "US of America",
+          "USA",
+          "United States",
+          "United States of America",
+          "United States of North America",
+          "the States",
+          "the U.S.",
+          "the U.S. of A",
+          "the U.S. of America",
+          "the U.S.A.",
+          "the US",
+          "the US of A",
+          "the US of America",
+          "the USA",
+          "the United States",
+          "the United States of America"
+        ],
+        "geoshape": "5b75d95a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q77",
+        "preferredName": "Uruguay",
+        "names": [
+          "Eastern Republic of Uruguay",
+          "Oriental Republic of Uruguay",
+          "URU",
+          "Uruguay",
+          "uy"
+        ],
+        "geoshape": "f2930bda"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q265",
+        "preferredName": "Uzbekistan",
+        "names": [
+          "Republic of Uzbekistan",
+          "Uzbekistan"
+        ],
+        "geoshape": "19b92169"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q686",
+        "preferredName": "Vanuatu",
+        "names": [
+          "Republic of Vanuatu",
+          "VAN",
+          "Vanuatu",
+          "van",
+          "vu",
+          "vut"
+        ],
+        "geoshape": "a83d9eaa"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q237",
+        "preferredName": "Vatican City",
+        "names": [
+          "Citt\u00e0 del Vaticano",
+          "Civitas Vaticana",
+          "Papal State",
+          "State of Vatican City",
+          "Stato della Citt\u00e0 del Vaticano",
+          "Status Civitatis Vaticanae",
+          "The Vatican",
+          "Vatican",
+          "Vatican City",
+          "Vatican City State",
+          "va",
+          "vat"
+        ],
+        "geoshape": "f7aacfc0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q717",
+        "preferredName": "Venezuela",
+        "names": [
+          "BR Venezuela",
+          "Bolivarian Republic of Venezuela",
+          "Venezuela"
+        ],
+        "geoshape": "ff050460"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q881",
+        "preferredName": "Vietnam",
+        "names": [
+          "SRV",
+          "Socialist Republic of Viet Nam",
+          "Socialist Republic of Vietnam",
+          "VIE",
+          "VN",
+          "VNM",
+          "Viet Nam",
+          "Vietnam",
+          "Vi\u1ec7t Nam"
+        ],
+        "geoshape": "c0f5aa0a"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q805",
+        "preferredName": "Yemen",
+        "names": [
+          "Rep. Yemen",
+          "Republic of Yemen",
+          "YE",
+          "YEM",
+          "Yemen",
+          "ye"
+        ],
+        "geoshape": "dda3f373"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q953",
+        "preferredName": "Zambia",
+        "names": [
+          "Republic of Zambia",
+          "ZAM",
+          "Zambia",
+          "Zed",
+          "zm"
+        ],
+        "geoshape": "e4625144"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q954",
+        "preferredName": "Zimbabwe",
+        "names": [
+          "Republic of Zimbabwe",
+          "Rhodesia",
+          "Southern Rhodesia",
+          "ZIM",
+          "Zimbabwe",
+          "Zimbabwe Rhodesia"
+        ],
+        "geoshape": "57f1f807"
       }
     ]
   },

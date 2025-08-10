@@ -5,10 +5,10 @@ import hashlib
 
 
 def main() -> None:
-    with open("data/cache/countries.json") as file:
-        countries = json.load(file)
+    with open("data/cache/regions.json") as file:
+        regions = json.load(file)
 
-    countries = {country["id"]: {**country, "divisions": []} for country in countries}
+    regions = {region["id"]: {**region, "divisions": []} for region in regions}
 
     with open("data/cache/divisions.json") as file:
         divisions = json.load(file)
@@ -49,15 +49,15 @@ def main() -> None:
                     case "OSM":
                         file.write(res.content)
 
-        countryId = division["countryId"]
-        del division["countryId"]
+        regionId = division["regionId"]
+        del division["regionId"]
         del division["osm"]
         del division["geo"]
 
-        countries[countryId]["divisions"].append({**division, "geoshape": id})
+        regions[regionId]["divisions"].append({**division, "geoshape": id})
 
     with open("data/data.json", "w+") as file:
-        json.dump(countries, fp=file, indent=2)
+        json.dump(regions, fp=file, indent=2)
 
 
 if __name__ == "__main__":

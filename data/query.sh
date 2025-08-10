@@ -8,22 +8,22 @@
 	--data-urlencode query@data/divisions.sparql \
 	-o data/cache/divisions-raw.json
 
-[ ! -f data/cache/countries-raw.json ] && curl https://query.wikidata.org/sparql \
+[ ! -f data/cache/regions-raw.json ] && curl https://query.wikidata.org/sparql \
 	-H "Accept: application/sparql-results+json" \
-	--data-urlencode query@data/countries.sparql \
-	-o data/cache/countries-raw.json
+	--data-urlencode query@data/regions.sparql \
+	-o data/cache/regions-raw.json
 
-[ ! -f data/cache/countries.json ] && jq \
+[ ! -f data/cache/regions.json ] && jq \
 	'.results.bindings | map({
-		id: .country.value,
-		name: .countryLabel.value
+		id: .region.value,
+		name: .regionLabel.value
 	}) | sort' \
-	data/cache/countries-raw.json > data/cache/countries.json
+	data/cache/regions-raw.json > data/cache/regions.json
 
 [ ! -f data/cache/divisions.json ] && jq \
 	'.results.bindings | map({
 		id: .division.value,
-		countryId: .country.value,
+		regionId: .region.value,
 		preferredName: .preferredDivisionLabel.value,
 		names: .divisionLabels.value | split("$DIVIDE$") | sort,
 		osm: .osm.value,

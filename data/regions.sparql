@@ -1,0 +1,25 @@
+SELECT
+	?region
+	?regionLabel
+WHERE {
+	SERVICE wikibase:label {
+		bd:serviceParam wikibase:language "en,mul".
+		?region rdfs:label ?regionLabel
+      
+	}.
+
+	VALUES (?region) {
+		(wd:Q148) # China
+		(wd:Q668) # India
+		(wd:Q30) # USA
+		(wd:Q252) # Indonesia
+		(wd:Q843) # Pakistan
+		(wd:Q1033) # Nigeria
+		(wd:Q155) # Brazil
+		(wd:Q902) # Bangladesh
+		(wd:Q159) # Russia
+		(wd:Q115) # Ethiopia
+		(wd:Q2) # World
+	}
+}
+GROUP BY ?region ?regionLabel
