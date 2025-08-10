@@ -7,6 +7,7 @@ import "./map";
 import "./game";
 import { WinEvent } from "./game";
 import { Temporal } from "@js-temporal/polyfill";
+import { formatDuration } from "./timer";
 
 export type DivisionId = string;
 export type CountryId = keyof typeof data;
@@ -70,16 +71,18 @@ export class App extends LitElementNoShadow {
                   bestTimeString !== null
                     ? html`<div class="text-sm">
                         Best time:
-                        ${Temporal.Duration.from(bestTimeString).toLocaleString(
-                          undefined,
-                          { style: "digital" },
+                        ${formatDuration(
+                          Temporal.Duration.from(bestTimeString),
                         )}
                       </div>`
                     : html`<div class="text-sm">Not yet completed</div>`;
 
                 return html`<li class="even:bg-stone-200 px-4 py-2">
                   <div class="w-full flex justify-between items-center gap-4">
-                    <span>${country.name}</span>
+                    <div class="flex flex-col">
+                      <span>${country.name}</span>
+                      <span class="text-sm">${bestTimeFormatted}</span>
+                    </div>
                     <button
                       class="btn"
                       @click=${() => {
@@ -95,7 +98,6 @@ export class App extends LitElementNoShadow {
                       </span>
                     </button>
                   </div>
-                  ${bestTimeFormatted}
                 </li>`;
               })}
             </ul>
@@ -138,12 +140,7 @@ export class App extends LitElementNoShadow {
         return html`<div class="w-full h-full grid place-items-center p-4">
           <div class="card p-4 flex flex-col gap-4 items-center">
             <h1 class="text-xl font-bold">You won!</h1>
-            <span>
-              Time:
-              ${this.state.time.toLocaleString(undefined, {
-                style: "digital",
-              })}
-            </span>
+            <span>Time: ${formatDuration(this.state.time)}</span>
             <button
               class="btn"
               @click=${() => {
