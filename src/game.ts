@@ -7,13 +7,13 @@ import { LitElementNoShadow } from "./base";
 import { colorToHex, MapLoadEvent } from "./map";
 import { Map as MapLibreGl } from "maplibre-gl";
 import tailwindColors from "tailwindcss/colors";
-import { Country, Division, CountryId } from "./main";
+import { Region, Division, RegionId } from "./main";
 import { Timer } from "./timer";
 import { Temporal } from "@js-temporal/polyfill";
 
-function getDivisionNames(country: Country): Map<string, Division> {
+function getDivisionNames(region: Region): Map<string, Division> {
   const names = new Map();
-  for (const division of country.divisions) {
+  for (const division of region.divisions) {
     for (const name of division.names) {
       names.set(name.toLowerCase(), division);
     }
@@ -28,9 +28,9 @@ type DivisionState = {
 };
 
 async function createDivisionStates(
-  country: Country,
+  region: Region,
 ): Promise<Map<string, DivisionState>> {
-  const divisionPromises = Iterator.from(country.divisions).map((division) => {
+  const divisionPromises = Iterator.from(region.divisions).map((division) => {
     return (async () => {
       const url = new URL(
         `/data/geoshape/${division.geoshape}.json`,
@@ -67,7 +67,7 @@ export type WinEvent = {
 @customElement("x-game")
 export class Game extends LitElementNoShadow {
   @property({ type: String })
-  id!: CountryId;
+  id!: RegionId;
 
   @state()
   found: Division[] = [];
@@ -79,13 +79,12 @@ export class Game extends LitElementNoShadow {
 
   #getData = new Task(this, {
     task: async ([id]: readonly [string]) => {
-      const country =
-        Iterator.from(Object.values(data)).find(
-          (country) => country.id === id,
-        ) || error("id does not exist");
+      const region =
+        Iterator.from(Object.values(data)).find((region) => region.id === id) ||
+        error("id does not exist");
 
-      const names = getDivisionNames(country);
-      const divisions = await createDivisionStates(country);
+      const names = getDivisionNames(region);
+      const divisions = await createDivisionStates(region);
       return { names, divisions };
     },
     args: () => [this.id],

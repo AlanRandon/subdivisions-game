@@ -10,12 +10,12 @@ import { Temporal } from "@js-temporal/polyfill";
 import { formatDuration } from "./timer";
 
 export type DivisionId = string;
-export type CountryId = keyof typeof data;
+export type RegionId = keyof typeof data;
 
-export type Country = {
+export type Region = {
   divisions: Division[];
   name: string;
-  id: CountryId;
+  id: RegionId;
 };
 
 export type Division = {
@@ -25,23 +25,23 @@ export type Division = {
   id: DivisionId;
 };
 
-const countries = Object.values(data) as Country[];
+const regions = Object.values(data) as Region[];
 
 type AppState =
   | {
       state: "playing";
-      id: CountryId;
+      id: RegionId;
     }
   | {
       state: "list";
     }
   | {
       state: "win";
-      id: CountryId;
+      id: RegionId;
       time: Temporal.Duration;
     };
 
-function bestTimeKey(id: CountryId): string {
+function bestTimeKey(id: RegionId): string {
   return `best-time-${id}`;
 }
 
@@ -62,9 +62,9 @@ export class App extends LitElementNoShadow {
               <span class="text-sm">Powered by Wikidata</span>
             </div>
             <ul>
-              ${countries.map((country) => {
+              ${regions.map((region) => {
                 const bestTimeString = localStorage.getItem(
-                  bestTimeKey(country.id),
+                  bestTimeKey(region.id),
                 );
 
                 const bestTimeFormatted =
@@ -80,7 +80,7 @@ export class App extends LitElementNoShadow {
                 return html`<li class="even:bg-stone-200 px-4 py-2">
                   <div class="w-full flex justify-between items-center gap-4">
                     <div class="flex flex-col">
-                      <span>${country.name}</span>
+                      <span>${region.name}</span>
                       <span class="text-sm">${bestTimeFormatted}</span>
                     </div>
                     <button
@@ -88,7 +88,7 @@ export class App extends LitElementNoShadow {
                       @click=${() => {
                         this.state = {
                           state: "playing",
-                          id: country.id,
+                          id: region.id,
                         };
                       }}
                     >
